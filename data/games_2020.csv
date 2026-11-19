@@ -1,0 +1,257 @@
+Season,SeasonType,Week,Date,GameID,HomeTeam,AwayTeam,HomeID,AwayID,HomeScore,AwayScore,Completed,NeutralSite
+2020,2,1,2020-09-11 00:20:00+00:00,401220225,Kansas City Chiefs,Houston Texans,12,34,34,20,True,False
+2020,2,1,2020-09-13 17:00:00+00:00,401220313,Atlanta Falcons,Seattle Seahawks,1,26,25,38,True,False
+2020,2,1,2020-09-13 17:00:00+00:00,401220116,Buffalo Bills,New York Jets,2,20,27,17,True,False
+2020,2,1,2020-09-13 17:00:00+00:00,401220282,Detroit Lions,Chicago Bears,8,3,23,27,True,False
+2020,2,1,2020-09-13 17:00:00+00:00,401220300,Minnesota Vikings,Green Bay Packers,16,9,34,43,True,False
+2020,2,1,2020-09-13 17:00:00+00:00,401220131,New England Patriots,Miami Dolphins,17,15,21,11,True,False
+2020,2,1,2020-09-13 17:00:00+00:00,401220268,Washington Commanders,Philadelphia Eagles,28,21,27,17,True,False
+2020,2,1,2020-09-13 17:00:00+00:00,401220370,Carolina Panthers,Las Vegas Raiders,29,13,30,34,True,False
+2020,2,1,2020-09-13 17:00:00+00:00,401220195,Jacksonville Jaguars,Indianapolis Colts,30,11,27,20,True,False
+2020,2,1,2020-09-13 17:00:00+00:00,401220147,Baltimore Ravens,Cleveland Browns,33,5,38,6,True,False
+2020,2,1,2020-09-13 20:05:00+00:00,401220161,Cincinnati Bengals,Los Angeles Chargers,4,24,13,16,True,False
+2020,2,1,2020-09-13 20:25:00+00:00,401220369,New Orleans Saints,Tampa Bay Buccaneers,18,27,34,23,True,False
+2020,2,1,2020-09-13 20:25:00+00:00,401220352,San Francisco 49ers,Arizona Cardinals,25,22,20,24,True,False
+2020,2,1,2020-09-14 00:20:00+00:00,401220347,Los Angeles Rams,Dallas Cowboys,14,6,20,17,True,False
+2020,2,1,2020-09-14 23:15:00+00:00,401220256,New York Giants,Pittsburgh Steelers,19,23,16,26,True,False
+2020,2,1,2020-09-15 02:10:00+00:00,401220217,Denver Broncos,Tennessee Titans,7,10,14,16,True,False
+2020,2,2,2020-09-18 00:20:00+00:00,401220163,Cleveland Browns,Cincinnati Bengals,5,4,35,30,True,False
+2020,2,2,2020-09-20 17:00:00+00:00,401220281,Chicago Bears,New York Giants,3,19,17,13,True,False
+2020,2,2,2020-09-20 17:00:00+00:00,401220249,Dallas Cowboys,Atlanta Falcons,6,1,40,39,True,False
+2020,2,2,2020-09-20 17:00:00+00:00,401220291,Green Bay Packers,Detroit Lions,9,8,42,21,True,False
+2020,2,2,2020-09-20 17:00:00+00:00,401220204,Tennessee Titans,Jacksonville Jaguars,10,30,33,30,True,False
+2020,2,2,2020-09-20 17:00:00+00:00,401220192,Indianapolis Colts,Minnesota Vikings,11,16,28,11,True,False
+2020,2,2,2020-09-20 17:00:00+00:00,401220122,Miami Dolphins,Buffalo Bills,15,2,28,31,True,False
+2020,2,2,2020-09-20 17:00:00+00:00,401220144,New York Jets,San Francisco 49ers,20,25,13,31,True,False
+2020,2,2,2020-09-20 17:00:00+00:00,401220261,Philadelphia Eagles,Los Angeles Rams,21,14,19,37,True,False
+2020,2,2,2020-09-20 17:00:00+00:00,401220177,Pittsburgh Steelers,Denver Broncos,23,7,26,21,True,False
+2020,2,2,2020-09-20 17:00:00+00:00,401220329,Tampa Bay Buccaneers,Carolina Panthers,27,29,31,17,True,False
+2020,2,2,2020-09-20 20:05:00+00:00,401220340,Arizona Cardinals,Washington Commanders,22,28,30,15,True,False
+2020,2,2,2020-09-20 20:25:00+00:00,401220235,Los Angeles Chargers,Kansas City Chiefs,24,12,20,23,True,False
+2020,2,2,2020-09-20 20:25:00+00:00,401220181,Houston Texans,Baltimore Ravens,34,33,16,33,True,False
+2020,2,2,2020-09-21 00:20:00+00:00,401220365,Seattle Seahawks,New England Patriots,26,17,35,30,True,False
+2020,2,2,2020-09-22 00:15:00+00:00,401220231,Las Vegas Raiders,New Orleans Saints,13,18,34,24,True,False
+2020,2,3,2020-09-25 00:20:00+00:00,401220201,Jacksonville Jaguars,Miami Dolphins,30,15,13,31,True,False
+2020,2,3,2020-09-27 17:00:00+00:00,401220309,Atlanta Falcons,Chicago Bears,1,3,26,30,True,False
+2020,2,3,2020-09-27 17:00:00+00:00,401220119,Buffalo Bills,Los Angeles Rams,2,14,35,32,True,False
+2020,2,3,2020-09-27 17:00:00+00:00,401220168,Cleveland Browns,Washington Commanders,5,28,34,20,True,False
+2020,2,3,2020-09-27 17:00:00+00:00,401220304,Minnesota Vikings,Tennessee Titans,16,10,30,31,True,False
+2020,2,3,2020-09-27 17:00:00+00:00,401220134,New England Patriots,Las Vegas Raiders,17,13,36,20,True,False
+2020,2,3,2020-09-27 17:00:00+00:00,401220254,New York Giants,San Francisco 49ers,19,25,9,36,True,False
+2020,2,3,2020-09-27 17:00:00+00:00,401220264,Philadelphia Eagles,Cincinnati Bengals,21,4,23,23,True,False
+2020,2,3,2020-09-27 17:00:00+00:00,401220173,Pittsburgh Steelers,Houston Texans,23,34,28,21,True,False
+2020,2,3,2020-09-27 20:05:00+00:00,401220193,Indianapolis Colts,New York Jets,11,20,36,7,True,False
+2020,2,3,2020-09-27 20:05:00+00:00,401220240,Los Angeles Chargers,Carolina Panthers,24,29,16,21,True,False
+2020,2,3,2020-09-27 20:25:00+00:00,401220216,Denver Broncos,Tampa Bay Buccaneers,7,27,10,28,True,False
+2020,2,3,2020-09-27 20:25:00+00:00,401220343,Arizona Cardinals,Detroit Lions,22,8,23,26,True,False
+2020,2,3,2020-09-27 20:25:00+00:00,401220363,Seattle Seahawks,Dallas Cowboys,26,6,38,31,True,False
+2020,2,3,2020-09-28 00:20:00+00:00,401220323,New Orleans Saints,Green Bay Packers,18,9,30,37,True,False
+2020,2,3,2020-09-29 00:15:00+00:00,401220153,Baltimore Ravens,Kansas City Chiefs,33,12,20,34,True,False
+2020,2,4,2020-10-02 00:20:00+00:00,401220141,New York Jets,Denver Broncos,20,7,28,37,True,False
+2020,2,4,2020-10-04 17:00:00+00:00,401220157,Cincinnati Bengals,Jacksonville Jaguars,4,30,33,25,True,False
+2020,2,4,2020-10-04 17:00:00+00:00,401220247,Dallas Cowboys,Cleveland Browns,6,5,38,49,True,False
+2020,2,4,2020-10-04 17:00:00+00:00,401220285,Detroit Lions,New Orleans Saints,8,18,29,35,True,False
+2020,2,4,2020-10-04 17:00:00+00:00,401220128,Miami Dolphins,Seattle Seahawks,15,26,23,31,True,False
+2020,2,4,2020-10-04 17:00:00+00:00,401220334,Tampa Bay Buccaneers,Los Angeles Chargers,27,24,38,31,True,False
+2020,2,4,2020-10-04 17:00:00+00:00,401220271,Washington Commanders,Baltimore Ravens,28,33,17,31,True,False
+2020,2,4,2020-10-04 17:00:00+00:00,401220320,Carolina Panthers,Arizona Cardinals,29,22,31,21,True,False
+2020,2,4,2020-10-04 17:00:00+00:00,401220184,Houston Texans,Minnesota Vikings,34,16,23,31,True,False
+2020,2,4,2020-10-04 20:05:00+00:00,401220348,Los Angeles Rams,New York Giants,14,19,17,9,True,False
+2020,2,4,2020-10-04 20:25:00+00:00,401220280,Chicago Bears,Indianapolis Colts,3,11,11,19,True,False
+2020,2,4,2020-10-04 20:25:00+00:00,401220229,Las Vegas Raiders,Buffalo Bills,13,2,23,30,True,False
+2020,2,4,2020-10-05 00:20:00+00:00,401220355,San Francisco 49ers,Philadelphia Eagles,25,21,20,25,True,False
+2020,2,4,2020-10-05 23:05:00+00:00,401220221,Kansas City Chiefs,New England Patriots,12,17,26,10,True,False
+2020,2,4,2020-10-06 01:00:00+00:00,401220293,Green Bay Packers,Atlanta Falcons,9,1,30,16,True,False
+2020,2,5,2020-10-09 00:20:00+00:00,401220278,Chicago Bears,Tampa Bay Buccaneers,3,27,20,19,True,False
+2020,2,5,2020-10-11 17:00:00+00:00,401220306,Atlanta Falcons,Carolina Panthers,1,29,16,23,True,False
+2020,2,5,2020-10-11 17:00:00+00:00,401220219,Kansas City Chiefs,Las Vegas Raiders,12,13,32,40,True,False
+2020,2,5,2020-10-11 17:00:00+00:00,401220143,New York Jets,Arizona Cardinals,20,22,10,30,True,False
+2020,2,5,2020-10-11 17:00:00+00:00,401220175,Pittsburgh Steelers,Philadelphia Eagles,23,21,38,29,True,False
+2020,2,5,2020-10-11 17:00:00+00:00,401220269,Washington Commanders,Los Angeles Rams,28,14,10,30,True,False
+2020,2,5,2020-10-11 17:00:00+00:00,401220146,Baltimore Ravens,Cincinnati Bengals,33,4,27,3,True,False
+2020,2,5,2020-10-11 17:00:00+00:00,401220179,Houston Texans,Jacksonville Jaguars,34,30,30,14,True,False
+2020,2,5,2020-10-11 20:05:00+00:00,401220358,San Francisco 49ers,Miami Dolphins,25,15,17,43,True,False
+2020,2,5,2020-10-11 20:25:00+00:00,401220166,Cleveland Browns,Indianapolis Colts,5,11,32,23,True,False
+2020,2,5,2020-10-11 20:25:00+00:00,401220242,Dallas Cowboys,New York Giants,6,19,37,34,True,False
+2020,2,5,2020-10-12 00:20:00+00:00,401220367,Seattle Seahawks,Minnesota Vikings,26,16,27,26,True,False
+2020,2,5,2020-10-13 00:15:00+00:00,401220326,New Orleans Saints,Los Angeles Chargers,18,24,30,27,True,False
+2020,2,5,2020-10-13 23:00:00+00:00,401220209,Tennessee Titans,Buffalo Bills,10,2,42,16,True,False
+2020,2,6,2020-10-18 17:00:00+00:00,401220202,Tennessee Titans,Houston Texans,10,34,42,36,True,False
+2020,2,6,2020-10-18 17:00:00+00:00,401220190,Indianapolis Colts,Cincinnati Bengals,11,4,31,27,True,False
+2020,2,6,2020-10-18 17:00:00+00:00,401220301,Minnesota Vikings,Atlanta Falcons,16,1,23,40,True,False
+2020,2,6,2020-10-18 17:00:00+00:00,401220133,New England Patriots,Denver Broncos,17,7,12,18,True,False
+2020,2,6,2020-10-18 17:00:00+00:00,401220252,New York Giants,Washington Commanders,19,28,20,19,True,False
+2020,2,6,2020-10-18 17:00:00+00:00,401220263,Philadelphia Eagles,Baltimore Ravens,21,33,28,30,True,False
+2020,2,6,2020-10-18 17:00:00+00:00,401220172,Pittsburgh Steelers,Cleveland Browns,23,5,38,7,True,False
+2020,2,6,2020-10-18 17:00:00+00:00,401220317,Carolina Panthers,Chicago Bears,29,3,16,23,True,False
+2020,2,6,2020-10-18 17:00:00+00:00,401220200,Jacksonville Jaguars,Detroit Lions,30,8,16,34,True,False
+2020,2,6,2020-10-18 20:05:00+00:00,401220124,Miami Dolphins,New York Jets,15,20,24,0,True,False
+2020,2,6,2020-10-18 20:25:00+00:00,401220331,Tampa Bay Buccaneers,Green Bay Packers,27,9,38,10,True,False
+2020,2,6,2020-10-19 00:20:00+00:00,401220353,San Francisco 49ers,Los Angeles Rams,25,14,24,16,True,False
+2020,2,6,2020-10-19 21:00:00+00:00,401220117,Buffalo Bills,Kansas City Chiefs,2,12,17,26,True,False
+2020,2,6,2020-10-20 00:15:00+00:00,401220245,Dallas Cowboys,Arizona Cardinals,6,22,10,38,True,False
+2020,2,7,2020-10-23 00:20:00+00:00,401220259,Philadelphia Eagles,New York Giants,21,19,22,21,True,False
+2020,2,7,2020-10-25 17:00:00+00:00,401220310,Atlanta Falcons,Detroit Lions,1,8,22,23,True,False
+2020,2,7,2020-10-25 17:00:00+00:00,401220155,Cincinnati Bengals,Cleveland Browns,4,5,34,37,True,False
+2020,2,7,2020-10-25 17:00:00+00:00,401249063,Tennessee Titans,Pittsburgh Steelers,10,23,24,27,True,False
+2020,2,7,2020-10-25 17:00:00+00:00,401220322,New Orleans Saints,Carolina Panthers,18,29,27,24,True,False
+2020,2,7,2020-10-25 17:00:00+00:00,401220138,New York Jets,Buffalo Bills,20,2,10,18,True,False
+2020,2,7,2020-10-25 17:00:00+00:00,401220266,Washington Commanders,Dallas Cowboys,28,6,25,3,True,False
+2020,2,7,2020-10-25 17:00:00+00:00,401220183,Houston Texans,Green Bay Packers,34,9,20,35,True,False
+2020,2,7,2020-10-25 20:05:00+00:00,401220232,Las Vegas Raiders,Tampa Bay Buccaneers,13,27,20,45,True,False
+2020,2,7,2020-10-25 20:25:00+00:00,401220210,Denver Broncos,Kansas City Chiefs,7,12,16,43,True,False
+2020,2,7,2020-10-25 20:25:00+00:00,401220136,New England Patriots,San Francisco 49ers,17,25,6,33,True,False
+2020,2,7,2020-10-25 20:25:00+00:00,401220241,Los Angeles Chargers,Jacksonville Jaguars,24,30,39,29,True,False
+2020,2,7,2020-10-26 00:20:00+00:00,401220338,Arizona Cardinals,Seattle Seahawks,22,26,37,34,True,False
+2020,2,7,2020-10-27 00:15:00+00:00,401220351,Los Angeles Rams,Chicago Bears,14,3,24,10,True,False
+2020,2,8,2020-10-30 00:20:00+00:00,401220314,Carolina Panthers,Atlanta Falcons,29,1,17,25,True,False
+2020,2,8,2020-11-01 18:00:00+00:00,401220115,Buffalo Bills,New England Patriots,2,17,24,21,True,False
+2020,2,8,2020-11-01 18:00:00+00:00,401220158,Cincinnati Bengals,Tennessee Titans,4,10,31,20,True,False
+2020,2,8,2020-11-01 18:00:00+00:00,401220169,Cleveland Browns,Las Vegas Raiders,5,13,6,16,True,False
+2020,2,8,2020-11-01 18:00:00+00:00,401220288,Detroit Lions,Indianapolis Colts,8,11,21,41,True,False
+2020,2,8,2020-11-01 18:00:00+00:00,401220292,Green Bay Packers,Minnesota Vikings,9,16,22,28,True,False
+2020,2,8,2020-11-01 18:00:00+00:00,401220222,Kansas City Chiefs,New York Jets,12,20,35,9,True,False
+2020,2,8,2020-11-01 18:00:00+00:00,401220127,Miami Dolphins,Los Angeles Rams,15,14,28,17,True,False
+2020,2,8,2020-11-01 18:00:00+00:00,401220148,Baltimore Ravens,Pittsburgh Steelers,33,23,24,28,True,False
+2020,2,8,2020-11-01 21:05:00+00:00,401220212,Denver Broncos,Los Angeles Chargers,7,24,31,30,True,False
+2020,2,8,2020-11-01 21:25:00+00:00,401220277,Chicago Bears,New Orleans Saints,3,18,23,26,True,False
+2020,2,8,2020-11-01 21:25:00+00:00,401220361,Seattle Seahawks,San Francisco 49ers,26,25,37,27,True,False
+2020,2,8,2020-11-02 01:20:00+00:00,401220258,Philadelphia Eagles,Dallas Cowboys,21,6,23,9,True,False
+2020,2,8,2020-11-03 01:15:00+00:00,401220257,New York Giants,Tampa Bay Buccaneers,19,27,23,25,True,False
+2020,2,9,2020-11-06 01:20:00+00:00,401220359,San Francisco 49ers,Green Bay Packers,25,9,17,34,True,False
+2020,2,9,2020-11-08 18:00:00+00:00,401220311,Atlanta Falcons,Denver Broncos,1,7,34,27,True,False
+2020,2,9,2020-11-08 18:00:00+00:00,401220120,Buffalo Bills,Seattle Seahawks,2,26,44,34,True,False
+2020,2,9,2020-11-08 18:00:00+00:00,401220207,Tennessee Titans,Chicago Bears,10,3,24,17,True,False
+2020,2,9,2020-11-08 18:00:00+00:00,401220189,Indianapolis Colts,Baltimore Ravens,11,33,10,24,True,False
+2020,2,9,2020-11-08 18:00:00+00:00,401220224,Kansas City Chiefs,Carolina Panthers,12,29,33,31,True,False
+2020,2,9,2020-11-08 18:00:00+00:00,401220299,Minnesota Vikings,Detroit Lions,16,8,34,20,True,False
+2020,2,9,2020-11-08 18:00:00+00:00,401220267,Washington Commanders,New York Giants,28,19,20,23,True,False
+2020,2,9,2020-11-08 18:00:00+00:00,401220194,Jacksonville Jaguars,Houston Texans,30,34,25,27,True,False
+2020,2,9,2020-11-08 21:05:00+00:00,401220236,Los Angeles Chargers,Las Vegas Raiders,24,13,26,31,True,False
+2020,2,9,2020-11-08 21:25:00+00:00,401220248,Dallas Cowboys,Pittsburgh Steelers,6,23,19,24,True,False
+2020,2,9,2020-11-08 21:25:00+00:00,401220342,Arizona Cardinals,Miami Dolphins,22,15,31,34,True,False
+2020,2,9,2020-11-09 01:20:00+00:00,401220330,Tampa Bay Buccaneers,New Orleans Saints,27,18,3,38,True,False
+2020,2,9,2020-11-10 01:15:00+00:00,401220140,New York Jets,New England Patriots,20,17,27,30,True,False
+2020,2,10,2020-11-13 01:20:00+00:00,401220203,Tennessee Titans,Indianapolis Colts,10,11,17,34,True,False
+2020,2,10,2020-11-15 18:00:00+00:00,401220165,Cleveland Browns,Houston Texans,5,34,10,7,True,False
+2020,2,10,2020-11-15 18:00:00+00:00,401220289,Detroit Lions,Washington Commanders,8,28,30,27,True,False
+2020,2,10,2020-11-15 18:00:00+00:00,401220295,Green Bay Packers,Jacksonville Jaguars,9,30,24,20,True,False
+2020,2,10,2020-11-15 18:00:00+00:00,401220251,New York Giants,Philadelphia Eagles,19,21,27,17,True,False
+2020,2,10,2020-11-15 18:00:00+00:00,401220368,Carolina Panthers,Tampa Bay Buccaneers,29,27,23,46,True,False
+2020,2,10,2020-11-15 21:05:00+00:00,401220226,Las Vegas Raiders,Denver Broncos,13,7,37,12,True,False
+2020,2,10,2020-11-15 21:05:00+00:00,401220126,Miami Dolphins,Los Angeles Chargers,15,24,29,21,True,False
+2020,2,10,2020-11-15 21:05:00+00:00,401220341,Arizona Cardinals,Buffalo Bills,22,2,32,30,True,False
+2020,2,10,2020-11-15 21:25:00+00:00,401220346,Los Angeles Rams,Seattle Seahawks,14,26,23,16,True,False
+2020,2,10,2020-11-15 21:25:00+00:00,401220327,New Orleans Saints,San Francisco 49ers,18,25,27,13,True,False
+2020,2,10,2020-11-15 21:25:00+00:00,401220171,Pittsburgh Steelers,Cincinnati Bengals,23,4,36,10,True,False
+2020,2,10,2020-11-16 01:20:00+00:00,401220137,New England Patriots,Baltimore Ravens,17,33,23,17,True,False
+2020,2,10,2020-11-17 01:15:00+00:00,401220276,Chicago Bears,Minnesota Vikings,3,16,13,19,True,False
+2020,2,11,2020-11-20 01:20:00+00:00,401220360,Seattle Seahawks,Arizona Cardinals,26,22,28,21,True,False
+2020,2,11,2020-11-22 18:00:00+00:00,401220167,Cleveland Browns,Philadelphia Eagles,5,21,22,17,True,False
+2020,2,11,2020-11-22 18:00:00+00:00,401220321,New Orleans Saints,Atlanta Falcons,18,1,24,9,True,False
+2020,2,11,2020-11-22 18:00:00+00:00,401220272,Washington Commanders,Cincinnati Bengals,28,4,20,9,True,False
+2020,2,11,2020-11-22 18:00:00+00:00,401220318,Carolina Panthers,Detroit Lions,29,8,20,0,True,False
+2020,2,11,2020-11-22 18:00:00+00:00,401220198,Jacksonville Jaguars,Pittsburgh Steelers,30,23,3,27,True,False
+2020,2,11,2020-11-22 18:00:00+00:00,401220150,Baltimore Ravens,Tennessee Titans,33,10,24,30,True,False
+2020,2,11,2020-11-22 18:00:00+00:00,401220185,Houston Texans,New England Patriots,34,17,27,20,True,False
+2020,2,11,2020-11-22 21:05:00+00:00,401220214,Denver Broncos,Miami Dolphins,7,15,20,13,True,False
+2020,2,11,2020-11-22 21:05:00+00:00,401220238,Los Angeles Chargers,New York Jets,24,20,34,28,True,False
+2020,2,11,2020-11-22 21:25:00+00:00,401220191,Indianapolis Colts,Green Bay Packers,11,9,34,31,True,False
+2020,2,11,2020-11-22 21:25:00+00:00,401220305,Minnesota Vikings,Dallas Cowboys,16,6,28,31,True,False
+2020,2,11,2020-11-23 01:20:00+00:00,401220227,Las Vegas Raiders,Kansas City Chiefs,13,12,31,35,True,False
+2020,2,11,2020-11-24 01:15:00+00:00,401220335,Tampa Bay Buccaneers,Los Angeles Rams,27,14,24,27,True,False
+2020,2,12,2020-11-26 17:30:00+00:00,401220287,Detroit Lions,Houston Texans,8,34,25,41,True,False
+2020,2,12,2020-11-26 21:30:00+00:00,401220244,Dallas Cowboys,Washington Commanders,6,28,16,41,True,False
+2020,2,12,2020-11-29 18:00:00+00:00,401220312,Atlanta Falcons,Las Vegas Raiders,1,13,43,6,True,False
+2020,2,12,2020-11-29 18:00:00+00:00,401220118,Buffalo Bills,Los Angeles Chargers,2,24,27,17,True,False
+2020,2,12,2020-11-29 18:00:00+00:00,401220160,Cincinnati Bengals,New York Giants,4,19,17,19,True,False
+2020,2,12,2020-11-29 18:00:00+00:00,401220188,Indianapolis Colts,Tennessee Titans,11,10,26,45,True,False
+2020,2,12,2020-11-29 18:00:00+00:00,401220302,Minnesota Vikings,Carolina Panthers,16,29,28,27,True,False
+2020,2,12,2020-11-29 18:00:00+00:00,401220135,New England Patriots,Arizona Cardinals,17,22,20,17,True,False
+2020,2,12,2020-11-29 18:00:00+00:00,401220139,New York Jets,Miami Dolphins,20,15,3,20,True,False
+2020,2,12,2020-11-29 18:00:00+00:00,401220197,Jacksonville Jaguars,Cleveland Browns,30,5,25,27,True,False
+2020,2,12,2020-11-29 21:05:00+00:00,401220215,Denver Broncos,New Orleans Saints,7,18,3,31,True,False
+2020,2,12,2020-11-29 21:05:00+00:00,401220345,Los Angeles Rams,San Francisco 49ers,14,25,20,23,True,False
+2020,2,12,2020-11-29 21:25:00+00:00,401220333,Tampa Bay Buccaneers,Kansas City Chiefs,27,12,24,27,True,False
+2020,2,12,2020-11-30 01:20:00+00:00,401220290,Green Bay Packers,Chicago Bears,9,3,41,25,True,False
+2020,2,12,2020-12-01 01:15:00+00:00,401220262,Philadelphia Eagles,Seattle Seahawks,21,26,17,23,True,False
+2020,2,12,2020-12-02 20:40:00+00:00,401220170,Pittsburgh Steelers,Baltimore Ravens,23,33,19,14,True,False
+2020,2,13,2020-12-06 18:00:00+00:00,401220307,Atlanta Falcons,New Orleans Saints,1,18,16,21,True,False
+2020,2,13,2020-12-06 18:00:00+00:00,401220274,Chicago Bears,Detroit Lions,3,8,30,34,True,False
+2020,2,13,2020-12-06 18:00:00+00:00,401220205,Tennessee Titans,Cleveland Browns,10,5,35,41,True,False
+2020,2,13,2020-12-06 18:00:00+00:00,401220129,Miami Dolphins,Cincinnati Bengals,15,4,19,7,True,False
+2020,2,13,2020-12-06 18:00:00+00:00,401220303,Minnesota Vikings,Jacksonville Jaguars,16,30,27,24,True,False
+2020,2,13,2020-12-06 18:00:00+00:00,401220142,New York Jets,Las Vegas Raiders,20,13,28,31,True,False
+2020,2,13,2020-12-06 18:00:00+00:00,401220178,Houston Texans,Indianapolis Colts,34,11,20,26,True,False
+2020,2,13,2020-12-06 21:05:00+00:00,401220336,Arizona Cardinals,Los Angeles Rams,22,14,28,38,True,False
+2020,2,13,2020-12-06 21:05:00+00:00,401220364,Seattle Seahawks,New York Giants,26,19,12,17,True,False
+2020,2,13,2020-12-06 21:25:00+00:00,401220297,Green Bay Packers,Philadelphia Eagles,9,21,30,16,True,False
+2020,2,13,2020-12-06 21:25:00+00:00,401220237,Los Angeles Chargers,New England Patriots,24,17,0,45,True,False
+2020,2,13,2020-12-07 01:20:00+00:00,401220218,Kansas City Chiefs,Denver Broncos,12,7,22,16,True,False
+2020,2,13,2020-12-07 22:00:00+00:00,401220176,Pittsburgh Steelers,Washington Commanders,23,28,17,23,True,False
+2020,2,13,2020-12-08 01:15:00+00:00,401220357,San Francisco 49ers,Buffalo Bills,25,2,24,34,True,False
+2020,2,13,2020-12-09 01:05:00+00:00,401220151,Baltimore Ravens,Dallas Cowboys,33,6,34,17,True,False
+2020,2,14,2020-12-11 01:20:00+00:00,401220349,Los Angeles Rams,New England Patriots,14,17,24,3,True,False
+2020,2,14,2020-12-13 18:00:00+00:00,401220279,Chicago Bears,Houston Texans,3,34,36,7,True,False
+2020,2,14,2020-12-13 18:00:00+00:00,401220159,Cincinnati Bengals,Dallas Cowboys,4,6,7,30,True,False
+2020,2,14,2020-12-13 18:00:00+00:00,401220125,Miami Dolphins,Kansas City Chiefs,15,12,27,33,True,False
+2020,2,14,2020-12-13 18:00:00+00:00,401220253,New York Giants,Arizona Cardinals,19,22,7,26,True,False
+2020,2,14,2020-12-13 18:00:00+00:00,401220332,Tampa Bay Buccaneers,Minnesota Vikings,27,16,26,14,True,False
+2020,2,14,2020-12-13 18:00:00+00:00,401220319,Carolina Panthers,Denver Broncos,29,7,27,32,True,False
+2020,2,14,2020-12-13 18:00:00+00:00,401220196,Jacksonville Jaguars,Tennessee Titans,30,10,10,31,True,False
+2020,2,14,2020-12-13 21:05:00+00:00,401220233,Las Vegas Raiders,Indianapolis Colts,13,11,27,44,True,False
+2020,2,14,2020-12-13 21:05:00+00:00,401220366,Seattle Seahawks,New York Jets,26,20,40,3,True,False
+2020,2,14,2020-12-13 21:25:00+00:00,401220283,Detroit Lions,Green Bay Packers,8,9,24,31,True,False
+2020,2,14,2020-12-13 21:25:00+00:00,401220265,Philadelphia Eagles,New Orleans Saints,21,18,24,21,True,False
+2020,2,14,2020-12-13 21:25:00+00:00,401220239,Los Angeles Chargers,Atlanta Falcons,24,1,20,17,True,False
+2020,2,14,2020-12-13 21:25:00+00:00,401220356,San Francisco 49ers,Washington Commanders,25,28,15,23,True,False
+2020,2,14,2020-12-14 01:20:00+00:00,401220121,Buffalo Bills,Pittsburgh Steelers,2,23,26,15,True,False
+2020,2,14,2020-12-15 01:15:00+00:00,401220162,Cleveland Browns,Baltimore Ravens,5,33,42,47,True,False
+2020,2,15,2020-12-18 01:20:00+00:00,401220228,Las Vegas Raiders,Los Angeles Chargers,13,24,27,30,True,False
+2020,2,15,2020-12-19 21:30:00+00:00,401220213,Denver Broncos,Buffalo Bills,7,2,19,48,True,False
+2020,2,15,2020-12-20 01:15:00+00:00,401220294,Green Bay Packers,Carolina Panthers,9,29,24,16,True,False
+2020,2,15,2020-12-20 18:00:00+00:00,401220308,Atlanta Falcons,Tampa Bay Buccaneers,1,27,27,31,True,False
+2020,2,15,2020-12-20 18:00:00+00:00,401220246,Dallas Cowboys,San Francisco 49ers,6,25,41,33,True,False
+2020,2,15,2020-12-20 18:00:00+00:00,401220208,Tennessee Titans,Detroit Lions,10,8,46,25,True,False
+2020,2,15,2020-12-20 18:00:00+00:00,401220186,Indianapolis Colts,Houston Texans,11,34,27,20,True,False
+2020,2,15,2020-12-20 18:00:00+00:00,401220123,Miami Dolphins,New England Patriots,15,17,22,12,True,False
+2020,2,15,2020-12-20 18:00:00+00:00,401220298,Minnesota Vikings,Chicago Bears,16,3,27,33,True,False
+2020,2,15,2020-12-20 18:00:00+00:00,401220270,Washington Commanders,Seattle Seahawks,28,26,15,20,True,False
+2020,2,15,2020-12-20 18:00:00+00:00,401220149,Baltimore Ravens,Jacksonville Jaguars,33,30,40,14,True,False
+2020,2,15,2020-12-20 21:05:00+00:00,401220350,Los Angeles Rams,New York Jets,14,20,20,23,True,False
+2020,2,15,2020-12-20 21:05:00+00:00,401220339,Arizona Cardinals,Philadelphia Eagles,22,21,33,26,True,False
+2020,2,15,2020-12-20 21:25:00+00:00,401220325,New Orleans Saints,Kansas City Chiefs,18,12,29,32,True,False
+2020,2,15,2020-12-21 01:20:00+00:00,401220255,New York Giants,Cleveland Browns,19,5,6,20,True,False
+2020,2,15,2020-12-22 01:15:00+00:00,401220156,Cincinnati Bengals,Pittsburgh Steelers,4,23,27,17,True,False
+2020,2,16,2020-12-25 21:30:00+00:00,401220324,New Orleans Saints,Minnesota Vikings,18,16,52,33,True,False
+2020,2,16,2020-12-26 18:00:00+00:00,401220286,Detroit Lions,Tampa Bay Buccaneers,8,27,7,47,True,False
+2020,2,16,2020-12-26 21:30:00+00:00,401220337,Arizona Cardinals,San Francisco 49ers,22,25,12,20,True,False
+2020,2,16,2020-12-27 01:15:00+00:00,401220230,Las Vegas Raiders,Miami Dolphins,13,15,25,26,True,False
+2020,2,16,2020-12-27 18:00:00+00:00,401220223,Kansas City Chiefs,Atlanta Falcons,12,1,17,14,True,False
+2020,2,16,2020-12-27 18:00:00+00:00,401220145,New York Jets,Cleveland Browns,20,5,23,16,True,False
+2020,2,16,2020-12-27 18:00:00+00:00,401220174,Pittsburgh Steelers,Indianapolis Colts,23,11,28,24,True,False
+2020,2,16,2020-12-27 18:00:00+00:00,401220199,Jacksonville Jaguars,Chicago Bears,30,3,17,41,True,False
+2020,2,16,2020-12-27 18:00:00+00:00,401220152,Baltimore Ravens,New York Giants,33,19,27,13,True,False
+2020,2,16,2020-12-27 18:00:00+00:00,401220182,Houston Texans,Cincinnati Bengals,34,4,31,37,True,False
+2020,2,16,2020-12-27 21:05:00+00:00,401220234,Los Angeles Chargers,Denver Broncos,24,7,19,16,True,False
+2020,2,16,2020-12-27 21:05:00+00:00,401220273,Washington Commanders,Carolina Panthers,28,29,13,20,True,False
+2020,2,16,2020-12-27 21:25:00+00:00,401220243,Dallas Cowboys,Philadelphia Eagles,6,21,37,17,True,False
+2020,2,16,2020-12-27 21:25:00+00:00,401220362,Seattle Seahawks,Los Angeles Rams,26,14,20,9,True,False
+2020,2,16,2020-12-28 01:20:00+00:00,401220296,Green Bay Packers,Tennessee Titans,9,10,40,14,True,False
+2020,2,16,2020-12-29 01:15:00+00:00,401220130,New England Patriots,Buffalo Bills,17,2,9,38,True,False
+2020,2,17,2021-01-03 18:00:00+00:00,401220114,Buffalo Bills,Miami Dolphins,2,15,56,26,True,False
+2020,2,17,2021-01-03 18:00:00+00:00,401220154,Cincinnati Bengals,Baltimore Ravens,4,33,3,38,True,False
+2020,2,17,2021-01-03 18:00:00+00:00,401220164,Cleveland Browns,Pittsburgh Steelers,5,23,24,22,True,False
+2020,2,17,2021-01-03 18:00:00+00:00,401220284,Detroit Lions,Minnesota Vikings,8,16,35,37,True,False
+2020,2,17,2021-01-03 18:00:00+00:00,401220132,New England Patriots,New York Jets,17,20,28,14,True,False
+2020,2,17,2021-01-03 18:00:00+00:00,401220250,New York Giants,Dallas Cowboys,19,6,23,19,True,False
+2020,2,17,2021-01-03 18:00:00+00:00,401220328,Tampa Bay Buccaneers,Atlanta Falcons,27,1,44,27,True,False
+2020,2,17,2021-01-03 21:25:00+00:00,401220275,Chicago Bears,Green Bay Packers,3,9,16,35,True,False
+2020,2,17,2021-01-03 21:25:00+00:00,401220211,Denver Broncos,Las Vegas Raiders,7,13,31,32,True,False
+2020,2,17,2021-01-03 21:25:00+00:00,401220187,Indianapolis Colts,Jacksonville Jaguars,11,30,28,14,True,False
+2020,2,17,2021-01-03 21:25:00+00:00,401220220,Kansas City Chiefs,Los Angeles Chargers,12,24,21,38,True,False
+2020,2,17,2021-01-03 21:25:00+00:00,401220344,Los Angeles Rams,Arizona Cardinals,14,22,18,7,True,False
+2020,2,17,2021-01-03 21:25:00+00:00,401220354,San Francisco 49ers,Seattle Seahawks,25,26,23,26,True,False
+2020,2,17,2021-01-03 21:25:00+00:00,401220315,Carolina Panthers,New Orleans Saints,29,18,7,33,True,False
+2020,2,17,2021-01-03 21:25:00+00:00,401220180,Houston Texans,Tennessee Titans,34,10,38,41,True,False
+2020,2,17,2021-01-04 01:20:00+00:00,401220260,Philadelphia Eagles,Washington Commanders,21,28,14,20,True,False

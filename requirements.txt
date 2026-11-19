@@ -1,0 +1,12 @@
+# Pinned to the versions this project was developed and tested with (Python 3.10).
+# Streamlit must be >= 1.54 for clickable table cells and the forecast chart dialog.
+streamlit==1.54.0
+pandas==2.3.3
+numpy==1.26.4
+scipy==1.14.1
+scikit-learn==1.6.0
+plotly==6.5.2
+requests==2.32.5
+
+# Only needed for the original process.py script
+matplotlib==3.10.9

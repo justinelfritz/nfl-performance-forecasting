@@ -1,0 +1,257 @@
+Season,SeasonType,Week,Date,GameID,HomeTeam,AwayTeam,HomeID,AwayID,HomeScore,AwayScore,Completed,NeutralSite
+2016,2,1,2016-09-09 00:30:00+00:00,400874484,Denver Broncos,Carolina Panthers,7,29,21,20,True,False
+2016,2,1,2016-09-11 17:00:00+00:00,400874522,Atlanta Falcons,Tampa Bay Buccaneers,1,27,24,31,True,False
+2016,2,1,2016-09-11 17:00:00+00:00,400874524,Tennessee Titans,Minnesota Vikings,10,16,16,25,True,False
+2016,2,1,2016-09-11 17:00:00+00:00,400874570,Kansas City Chiefs,San Diego Chargers,12,24,33,27,True,False
+2016,2,1,2016-09-11 17:00:00+00:00,400874543,New Orleans Saints,Oakland Raiders,18,13,34,35,True,False
+2016,2,1,2016-09-11 17:00:00+00:00,400874527,New York Jets,Cincinnati Bengals,20,4,22,23,True,False
+2016,2,1,2016-09-11 17:00:00+00:00,400874520,Philadelphia Eagles,Cleveland Browns,21,5,29,10,True,False
+2016,2,1,2016-09-11 17:00:00+00:00,400874486,Jacksonville Jaguars,Green Bay Packers,30,9,23,27,True,False
+2016,2,1,2016-09-11 17:00:00+00:00,400874510,Baltimore Ravens,Buffalo Bills,33,2,13,7,True,False
+2016,2,1,2016-09-11 17:00:00+00:00,400874511,Houston Texans,Chicago Bears,34,3,23,14,True,False
+2016,2,1,2016-09-11 20:05:00+00:00,400874577,Seattle Seahawks,Miami Dolphins,26,15,12,10,True,False
+2016,2,1,2016-09-11 20:25:00+00:00,400874574,Dallas Cowboys,New York Giants,6,19,19,20,True,False
+2016,2,1,2016-09-11 20:25:00+00:00,400874573,Indianapolis Colts,Detroit Lions,11,8,35,39,True,False
+2016,2,1,2016-09-12 00:30:00+00:00,400874539,Arizona Cardinals,New England Patriots,22,17,21,23,True,False
+2016,2,1,2016-09-12 23:10:00+00:00,400874537,Washington Redskins,Pittsburgh Steelers,28,23,16,38,True,False
+2016,2,1,2016-09-13 02:20:00+00:00,400874532,San Francisco 49ers,Los Angeles Rams,25,14,28,0,True,False
+2016,2,2,2016-09-16 00:25:00+00:00,400874530,Buffalo Bills,New York Jets,2,20,31,37,True,False
+2016,2,2,2016-09-18 17:00:00+00:00,400874512,Cleveland Browns,Baltimore Ravens,5,33,20,25,True,False
+2016,2,2,2016-09-18 17:00:00+00:00,400874488,Detroit Lions,Tennessee Titans,8,10,15,16,True,False
+2016,2,2,2016-09-18 17:00:00+00:00,400874541,New England Patriots,Miami Dolphins,17,15,31,24,True,False
+2016,2,2,2016-09-18 17:00:00+00:00,400874529,New York Giants,New Orleans Saints,19,18,16,13,True,False
+2016,2,2,2016-09-18 17:00:00+00:00,400874487,Pittsburgh Steelers,Cincinnati Bengals,23,4,24,16,True,False
+2016,2,2,2016-09-18 17:00:00+00:00,400874518,Washington Redskins,Dallas Cowboys,28,6,23,27,True,False
+2016,2,2,2016-09-18 17:00:00+00:00,400874535,Carolina Panthers,San Francisco 49ers,29,25,46,27,True,False
+2016,2,2,2016-09-18 17:00:00+00:00,400874549,Houston Texans,Kansas City Chiefs,34,12,19,12,True,False
+2016,2,2,2016-09-18 20:05:00+00:00,400874514,Los Angeles Rams,Seattle Seahawks,14,26,9,3,True,False
+2016,2,2,2016-09-18 20:05:00+00:00,400874515,Arizona Cardinals,Tampa Bay Buccaneers,22,27,40,7,True,False
+2016,2,2,2016-09-18 20:25:00+00:00,400874526,Denver Broncos,Indianapolis Colts,7,11,34,20,True,False
+2016,2,2,2016-09-18 20:25:00+00:00,400874525,Oakland Raiders,Atlanta Falcons,13,1,28,35,True,False
+2016,2,2,2016-09-18 20:25:00+00:00,400874517,San Diego Chargers,Jacksonville Jaguars,24,30,38,14,True,False
+2016,2,2,2016-09-19 00:30:00+00:00,400874545,Minnesota Vikings,Green Bay Packers,16,9,17,14,True,False
+2016,2,2,2016-09-20 00:30:00+00:00,400874547,Chicago Bears,Philadelphia Eagles,3,21,14,29,True,False
+2016,2,3,2016-09-23 00:25:00+00:00,400874551,New England Patriots,Houston Texans,17,34,27,0,True,False
+2016,2,3,2016-09-25 17:00:00+00:00,400874558,Buffalo Bills,Arizona Cardinals,2,22,33,18,True,False
+2016,2,3,2016-09-25 17:00:00+00:00,400874613,Cincinnati Bengals,Denver Broncos,4,7,17,29,True,False
+2016,2,3,2016-09-25 17:00:00+00:00,400874610,Green Bay Packers,Detroit Lions,9,8,34,27,True,False
+2016,2,3,2016-09-25 17:00:00+00:00,400874562,Tennessee Titans,Oakland Raiders,10,13,10,17,True,False
+2016,2,3,2016-09-25 17:00:00+00:00,400874565,Miami Dolphins,Cleveland Browns,15,5,30,24,True,False
+2016,2,3,2016-09-25 17:00:00+00:00,400874682,New York Giants,Washington Redskins,19,28,27,29,True,False
+2016,2,3,2016-09-25 17:00:00+00:00,400874615,Carolina Panthers,Minnesota Vikings,29,16,10,22,True,False
+2016,2,3,2016-09-25 17:00:00+00:00,400874567,Jacksonville Jaguars,Baltimore Ravens,30,33,17,19,True,False
+2016,2,3,2016-09-25 20:05:00+00:00,400874620,Seattle Seahawks,San Francisco 49ers,26,25,37,18,True,False
+2016,2,3,2016-09-25 20:05:00+00:00,400874618,Tampa Bay Buccaneers,Los Angeles Rams,27,14,32,37,True,False
+2016,2,3,2016-09-25 20:25:00+00:00,400874624,Indianapolis Colts,San Diego Chargers,11,24,26,22,True,False
+2016,2,3,2016-09-25 20:25:00+00:00,400874623,Kansas City Chiefs,New York Jets,12,20,24,3,True,False
+2016,2,3,2016-09-25 20:25:00+00:00,400874628,Philadelphia Eagles,Pittsburgh Steelers,21,23,34,3,True,False
+2016,2,3,2016-09-26 00:30:00+00:00,400874650,Dallas Cowboys,Chicago Bears,6,3,31,17,True,False
+2016,2,3,2016-09-27 00:30:00+00:00,400874653,New Orleans Saints,Atlanta Falcons,18,1,32,45,True,False
+2016,2,4,2016-09-30 00:25:00+00:00,400874655,Cincinnati Bengals,Miami Dolphins,4,15,22,7,True,False
+2016,2,4,2016-10-02 13:30:00+00:00,400874657,Jacksonville Jaguars,Indianapolis Colts,30,11,30,27,True,True
+2016,2,4,2016-10-02 17:00:00+00:00,400874664,Atlanta Falcons,Carolina Panthers,1,29,48,33,True,False
+2016,2,4,2016-10-02 17:00:00+00:00,400874668,Chicago Bears,Detroit Lions,3,8,17,14,True,False
+2016,2,4,2016-10-02 17:00:00+00:00,400874663,New England Patriots,Buffalo Bills,17,2,0,16,True,False
+2016,2,4,2016-10-02 17:00:00+00:00,400874662,New York Jets,Seattle Seahawks,20,26,17,27,True,False
+2016,2,4,2016-10-02 17:00:00+00:00,400874660,Washington Redskins,Cleveland Browns,28,5,31,20,True,False
+2016,2,4,2016-10-02 17:00:00+00:00,400874666,Baltimore Ravens,Oakland Raiders,33,13,27,28,True,False
+2016,2,4,2016-10-02 17:00:00+00:00,400874658,Houston Texans,Tennessee Titans,34,10,27,20,True,False
+2016,2,4,2016-10-02 20:05:00+00:00,400874669,Tampa Bay Buccaneers,Denver Broncos,27,7,7,27,True,False
+2016,2,4,2016-10-02 20:25:00+00:00,400874671,Arizona Cardinals,Los Angeles Rams,22,14,13,17,True,False
+2016,2,4,2016-10-02 20:25:00+00:00,400874672,San Diego Chargers,New Orleans Saints,24,18,34,35,True,False
+2016,2,4,2016-10-02 20:25:00+00:00,400874674,San Francisco 49ers,Dallas Cowboys,25,6,17,24,True,False
+2016,2,4,2016-10-03 00:30:00+00:00,400874675,Pittsburgh Steelers,Kansas City Chiefs,23,12,43,14,True,False
+2016,2,4,2016-10-04 00:30:00+00:00,400874677,Minnesota Vikings,New York Giants,16,19,24,10,True,False
+2016,2,5,2016-10-07 00:25:00+00:00,400874483,San Francisco 49ers,Arizona Cardinals,25,22,21,33,True,False
+2016,2,5,2016-10-09 17:00:00+00:00,400874519,Cleveland Browns,New England Patriots,5,17,13,33,True,False
+2016,2,5,2016-10-09 17:00:00+00:00,400874533,Detroit Lions,Philadelphia Eagles,8,21,24,23,True,False
+2016,2,5,2016-10-09 17:00:00+00:00,400874548,Indianapolis Colts,Chicago Bears,11,3,29,23,True,False
+2016,2,5,2016-10-09 17:00:00+00:00,400874581,Miami Dolphins,Tennessee Titans,15,10,17,30,True,False
+2016,2,5,2016-10-09 17:00:00+00:00,400874595,Minnesota Vikings,Houston Texans,16,34,31,13,True,False
+2016,2,5,2016-10-09 17:00:00+00:00,400874602,Pittsburgh Steelers,New York Jets,23,20,31,13,True,False
+2016,2,5,2016-10-09 17:00:00+00:00,400874590,Baltimore Ravens,Washington Redskins,33,28,10,16,True,False
+2016,2,5,2016-10-09 20:05:00+00:00,400874607,Denver Broncos,Atlanta Falcons,7,1,16,23,True,False
+2016,2,5,2016-10-09 20:25:00+00:00,400874630,Dallas Cowboys,Cincinnati Bengals,6,4,28,14,True,False
+2016,2,5,2016-10-09 20:25:00+00:00,400874636,Oakland Raiders,San Diego Chargers,13,24,34,31,True,False
+2016,2,5,2016-10-09 20:25:00+00:00,400874633,Los Angeles Rams,Buffalo Bills,14,2,19,30,True,False
+2016,2,5,2016-10-10 00:30:00+00:00,400874640,Green Bay Packers,New York Giants,9,19,23,16,True,False
+2016,2,5,2016-10-11 00:30:00+00:00,400874648,Carolina Panthers,Tampa Bay Buccaneers,29,27,14,17,True,False
+2016,2,6,2016-10-14 00:25:00+00:00,400874693,San Diego Chargers,Denver Broncos,24,7,21,13,True,False
+2016,2,6,2016-10-16 17:00:00+00:00,400874698,Buffalo Bills,San Francisco 49ers,2,25,45,16,True,False
+2016,2,6,2016-10-16 17:00:00+00:00,400874708,Chicago Bears,Jacksonville Jaguars,3,30,16,17,True,False
+2016,2,6,2016-10-16 17:00:00+00:00,400874709,Detroit Lions,Los Angeles Rams,8,14,31,28,True,False
+2016,2,6,2016-10-16 17:00:00+00:00,400874703,Tennessee Titans,Cleveland Browns,10,5,28,26,True,False
+2016,2,6,2016-10-16 17:00:00+00:00,400874730,Miami Dolphins,Pittsburgh Steelers,15,23,30,15,True,False
+2016,2,6,2016-10-16 17:00:00+00:00,400874736,New England Patriots,Cincinnati Bengals,17,4,35,17,True,False
+2016,2,6,2016-10-16 17:00:00+00:00,400874707,New Orleans Saints,Carolina Panthers,18,29,41,38,True,False
+2016,2,6,2016-10-16 17:00:00+00:00,400874705,New York Giants,Baltimore Ravens,19,33,27,23,True,False
+2016,2,6,2016-10-16 17:00:00+00:00,400874701,Washington Redskins,Philadelphia Eagles,28,21,27,20,True,False
+2016,2,6,2016-10-16 20:05:00+00:00,400874731,Oakland Raiders,Kansas City Chiefs,13,12,10,26,True,False
+2016,2,6,2016-10-16 20:25:00+00:00,400874733,Green Bay Packers,Dallas Cowboys,9,6,16,30,True,False
+2016,2,6,2016-10-16 20:25:00+00:00,400874732,Seattle Seahawks,Atlanta Falcons,26,1,26,24,True,False
+2016,2,6,2016-10-17 00:30:00+00:00,400874734,Houston Texans,Indianapolis Colts,34,11,26,23,True,False
+2016,2,6,2016-10-18 00:30:00+00:00,400874735,Arizona Cardinals,New York Jets,22,20,28,3,True,False
+2016,2,7,2016-10-21 00:25:00+00:00,400874429,Green Bay Packers,Chicago Bears,9,3,26,10,True,False
+2016,2,7,2016-10-23 13:30:00+00:00,400874490,Los Angeles Rams,New York Giants,14,19,10,17,True,True
+2016,2,7,2016-10-23 17:00:00+00:00,400874494,Cincinnati Bengals,Cleveland Browns,4,5,31,17,True,False
+2016,2,7,2016-10-23 17:00:00+00:00,400874496,Detroit Lions,Washington Redskins,8,28,20,17,True,False
+2016,2,7,2016-10-23 17:00:00+00:00,400874492,Tennessee Titans,Indianapolis Colts,10,11,26,34,True,False
+2016,2,7,2016-10-23 17:00:00+00:00,400874491,Kansas City Chiefs,New Orleans Saints,12,18,27,21,True,False
+2016,2,7,2016-10-23 17:00:00+00:00,400874500,Miami Dolphins,Buffalo Bills,15,2,28,25,True,False
+2016,2,7,2016-10-23 17:00:00+00:00,400874501,New York Jets,Baltimore Ravens,20,33,24,16,True,False
+2016,2,7,2016-10-23 17:00:00+00:00,400874493,Philadelphia Eagles,Minnesota Vikings,21,16,21,10,True,False
+2016,2,7,2016-10-23 17:00:00+00:00,400874498,Jacksonville Jaguars,Oakland Raiders,30,13,16,33,True,False
+2016,2,7,2016-10-23 20:05:00+00:00,400874505,Atlanta Falcons,San Diego Chargers,1,24,30,33,True,False
+2016,2,7,2016-10-23 20:05:00+00:00,400874503,San Francisco 49ers,Tampa Bay Buccaneers,25,27,17,34,True,False
+2016,2,7,2016-10-23 20:25:00+00:00,400874506,Pittsburgh Steelers,New England Patriots,23,17,16,27,True,False
+2016,2,7,2016-10-24 00:30:00+00:00,400874508,Arizona Cardinals,Seattle Seahawks,22,26,6,6,True,False
+2016,2,7,2016-10-25 00:30:00+00:00,400874509,Denver Broncos,Houston Texans,7,34,27,9,True,False
+2016,2,8,2016-10-28 00:25:00+00:00,400874553,Tennessee Titans,Jacksonville Jaguars,10,30,36,22,True,False
+2016,2,8,2016-10-30 13:30:00+00:00,400874555,Cincinnati Bengals,Washington Redskins,4,28,27,27,True,True
+2016,2,8,2016-10-30 17:00:00+00:00,400874619,Buffalo Bills,New England Patriots,2,17,25,41,True,False
+2016,2,8,2016-10-30 17:00:00+00:00,400874612,Cleveland Browns,New York Jets,5,20,28,31,True,False
+2016,2,8,2016-10-30 17:00:00+00:00,400874557,Indianapolis Colts,Kansas City Chiefs,11,12,14,30,True,False
+2016,2,8,2016-10-30 17:00:00+00:00,400874564,New Orleans Saints,Seattle Seahawks,18,26,25,20,True,False
+2016,2,8,2016-10-30 17:00:00+00:00,400874561,Tampa Bay Buccaneers,Oakland Raiders,27,13,24,30,True,False
+2016,2,8,2016-10-30 17:00:00+00:00,400874625,Carolina Panthers,Arizona Cardinals,29,22,30,20,True,False
+2016,2,8,2016-10-30 17:00:00+00:00,400874569,Houston Texans,Detroit Lions,34,8,20,13,True,False
+2016,2,8,2016-10-30 20:05:00+00:00,400874622,Denver Broncos,San Diego Chargers,7,24,27,19,True,False
+2016,2,8,2016-10-30 20:25:00+00:00,400874616,Atlanta Falcons,Green Bay Packers,1,9,33,32,True,False
+2016,2,8,2016-10-31 00:30:00+00:00,400874629,Dallas Cowboys,Philadelphia Eagles,6,21,29,23,True,False
+2016,2,8,2016-11-01 00:30:00+00:00,400874652,Chicago Bears,Minnesota Vikings,3,16,20,10,True,False
+2016,2,9,2016-11-04 00:25:00+00:00,400874605,Tampa Bay Buccaneers,Atlanta Falcons,27,1,28,43,True,False
+2016,2,9,2016-11-06 18:00:00+00:00,400874599,Cleveland Browns,Dallas Cowboys,5,6,10,35,True,False
+2016,2,9,2016-11-06 18:00:00+00:00,400874600,Kansas City Chiefs,Jacksonville Jaguars,12,30,19,14,True,False
+2016,2,9,2016-11-06 18:00:00+00:00,400874601,Miami Dolphins,New York Jets,15,20,27,23,True,False
+2016,2,9,2016-11-06 18:00:00+00:00,400874604,Minnesota Vikings,Detroit Lions,16,8,16,22,True,False
+2016,2,9,2016-11-06 18:00:00+00:00,400874603,New York Giants,Philadelphia Eagles,19,21,28,23,True,False
+2016,2,9,2016-11-06 18:00:00+00:00,400874598,Baltimore Ravens,Pittsburgh Steelers,33,23,21,14,True,False
+2016,2,9,2016-11-06 21:05:00+00:00,400874596,Los Angeles Rams,Carolina Panthers,14,29,10,13,True,False
+2016,2,9,2016-11-06 21:05:00+00:00,400874597,San Francisco 49ers,New Orleans Saints,25,18,23,41,True,False
+2016,2,9,2016-11-06 21:25:00+00:00,400874594,Green Bay Packers,Indianapolis Colts,9,11,26,31,True,False
+2016,2,9,2016-11-06 21:25:00+00:00,400874593,San Diego Chargers,Tennessee Titans,24,10,43,35,True,False
+2016,2,9,2016-11-07 01:30:00+00:00,400874592,Oakland Raiders,Denver Broncos,13,7,30,20,True,False
+2016,2,9,2016-11-08 01:30:00+00:00,400874591,Seattle Seahawks,Buffalo Bills,26,2,31,25,True,False
+2016,2,10,2016-11-11 01:25:00+00:00,400874589,Baltimore Ravens,Cleveland Browns,33,5,28,7,True,False
+2016,2,10,2016-11-13 18:00:00+00:00,400874572,Tennessee Titans,Green Bay Packers,10,9,47,25,True,False
+2016,2,10,2016-11-13 18:00:00+00:00,400874586,New Orleans Saints,Denver Broncos,18,7,23,25,True,False
+2016,2,10,2016-11-13 18:00:00+00:00,400874584,New York Jets,Los Angeles Rams,20,14,6,9,True,False
+2016,2,10,2016-11-13 18:00:00+00:00,400874582,Philadelphia Eagles,Atlanta Falcons,21,1,24,15,True,False
+2016,2,10,2016-11-13 18:00:00+00:00,400874578,Tampa Bay Buccaneers,Chicago Bears,27,3,36,10,True,False
+2016,2,10,2016-11-13 18:00:00+00:00,400874576,Washington Redskins,Minnesota Vikings,28,16,26,20,True,False
+2016,2,10,2016-11-13 18:00:00+00:00,400874580,Carolina Panthers,Kansas City Chiefs,29,12,17,20,True,False
+2016,2,10,2016-11-13 18:00:00+00:00,400874587,Jacksonville Jaguars,Houston Texans,30,34,21,24,True,False
+2016,2,10,2016-11-13 21:05:00+00:00,400874544,San Diego Chargers,Miami Dolphins,24,15,24,31,True,False
+2016,2,10,2016-11-13 21:25:00+00:00,400874542,Arizona Cardinals,San Francisco 49ers,22,25,23,20,True,False
+2016,2,10,2016-11-13 21:25:00+00:00,400874538,Pittsburgh Steelers,Dallas Cowboys,23,6,30,35,True,False
+2016,2,10,2016-11-14 01:30:00+00:00,400874536,New England Patriots,Seattle Seahawks,17,26,24,31,True,False
+2016,2,10,2016-11-15 01:30:00+00:00,400874531,New York Giants,Cincinnati Bengals,19,4,21,20,True,False
+2016,2,11,2016-11-18 01:25:00+00:00,400874609,Carolina Panthers,New Orleans Saints,29,18,23,20,True,False
+2016,2,11,2016-11-20 18:00:00+00:00,400874646,Cincinnati Bengals,Buffalo Bills,4,2,12,16,True,False
+2016,2,11,2016-11-20 18:00:00+00:00,400874634,Cleveland Browns,Pittsburgh Steelers,5,23,9,24,True,False
+2016,2,11,2016-11-20 18:00:00+00:00,400874638,Dallas Cowboys,Baltimore Ravens,6,33,27,17,True,False
+2016,2,11,2016-11-20 18:00:00+00:00,400874641,Detroit Lions,Jacksonville Jaguars,8,30,26,19,True,False
+2016,2,11,2016-11-20 18:00:00+00:00,400874644,Indianapolis Colts,Tennessee Titans,11,10,24,17,True,False
+2016,2,11,2016-11-20 18:00:00+00:00,400874649,Kansas City Chiefs,Tampa Bay Buccaneers,12,27,17,19,True,False
+2016,2,11,2016-11-20 18:00:00+00:00,400874695,Minnesota Vikings,Arizona Cardinals,16,22,30,24,True,False
+2016,2,11,2016-11-20 18:00:00+00:00,400874691,New York Giants,Chicago Bears,19,3,22,16,True,False
+2016,2,11,2016-11-20 21:05:00+00:00,400874697,Los Angeles Rams,Miami Dolphins,14,15,10,14,True,False
+2016,2,11,2016-11-20 21:25:00+00:00,400874700,San Francisco 49ers,New England Patriots,25,17,17,30,True,False
+2016,2,11,2016-11-20 21:25:00+00:00,400874702,Seattle Seahawks,Philadelphia Eagles,26,21,26,15,True,False
+2016,2,11,2016-11-21 01:30:00+00:00,400874704,Washington Redskins,Green Bay Packers,28,9,42,24,True,False
+2016,2,11,2016-11-22 01:30:00+00:00,400874706,Oakland Raiders,Houston Texans,13,34,27,20,True,True
+2016,2,12,2016-11-24 17:30:00+00:00,400874495,Detroit Lions,Minnesota Vikings,8,16,16,13,True,False
+2016,2,12,2016-11-24 21:30:00+00:00,400874499,Dallas Cowboys,Washington Redskins,6,28,31,26,True,False
+2016,2,12,2016-11-25 01:30:00+00:00,400874502,Indianapolis Colts,Pittsburgh Steelers,11,23,7,28,True,False
+2016,2,12,2016-11-27 18:00:00+00:00,400874566,Atlanta Falcons,Arizona Cardinals,1,22,38,19,True,False
+2016,2,12,2016-11-27 18:00:00+00:00,400874554,Buffalo Bills,Jacksonville Jaguars,2,30,28,21,True,False
+2016,2,12,2016-11-27 18:00:00+00:00,400874507,Chicago Bears,Tennessee Titans,3,10,21,27,True,False
+2016,2,12,2016-11-27 18:00:00+00:00,400874614,Cleveland Browns,New York Giants,5,19,13,27,True,False
+2016,2,12,2016-11-27 18:00:00+00:00,400874654,Miami Dolphins,San Francisco 49ers,15,25,31,24,True,False
+2016,2,12,2016-11-27 18:00:00+00:00,400874626,New Orleans Saints,Los Angeles Rams,18,14,49,21,True,False
+2016,2,12,2016-11-27 18:00:00+00:00,400874560,Baltimore Ravens,Cincinnati Bengals,33,4,19,14,True,False
+2016,2,12,2016-11-27 18:00:00+00:00,400874659,Houston Texans,San Diego Chargers,34,24,13,21,True,False
+2016,2,12,2016-11-27 21:05:00+00:00,400874665,Tampa Bay Buccaneers,Seattle Seahawks,27,26,14,5,True,False
+2016,2,12,2016-11-27 21:25:00+00:00,400874670,Oakland Raiders,Carolina Panthers,13,29,35,32,True,False
+2016,2,12,2016-11-27 21:25:00+00:00,400874680,New York Jets,New England Patriots,20,17,17,22,True,False
+2016,2,12,2016-11-28 01:30:00+00:00,400874676,Denver Broncos,Kansas City Chiefs,7,12,27,30,True,False
+2016,2,12,2016-11-29 01:30:00+00:00,400874684,Philadelphia Eagles,Green Bay Packers,21,9,13,27,True,False
+2016,2,13,2016-12-02 01:25:00+00:00,400874713,Minnesota Vikings,Dallas Cowboys,16,6,15,17,True,False
+2016,2,13,2016-12-04 18:00:00+00:00,400874715,Atlanta Falcons,Kansas City Chiefs,1,12,28,29,True,False
+2016,2,13,2016-12-04 18:00:00+00:00,400874723,Chicago Bears,San Francisco 49ers,3,25,26,6,True,False
+2016,2,13,2016-12-04 18:00:00+00:00,400874721,Cincinnati Bengals,Philadelphia Eagles,4,21,32,14,True,False
+2016,2,13,2016-12-04 18:00:00+00:00,400874720,Green Bay Packers,Houston Texans,9,34,21,13,True,False
+2016,2,13,2016-12-04 18:00:00+00:00,400874718,New England Patriots,Los Angeles Rams,17,14,26,10,True,False
+2016,2,13,2016-12-04 18:00:00+00:00,400874717,New Orleans Saints,Detroit Lions,18,8,13,28,True,False
+2016,2,13,2016-12-04 18:00:00+00:00,400874719,Jacksonville Jaguars,Denver Broncos,30,7,10,20,True,False
+2016,2,13,2016-12-04 18:00:00+00:00,400874722,Baltimore Ravens,Miami Dolphins,33,15,38,6,True,False
+2016,2,13,2016-12-04 21:05:00+00:00,400874724,Oakland Raiders,Buffalo Bills,13,2,38,24,True,False
+2016,2,13,2016-12-04 21:25:00+00:00,400874726,Arizona Cardinals,Washington Redskins,22,28,31,23,True,False
+2016,2,13,2016-12-04 21:25:00+00:00,400874725,Pittsburgh Steelers,New York Giants,23,19,24,14,True,False
+2016,2,13,2016-12-04 21:25:00+00:00,400874727,San Diego Chargers,Tampa Bay Buccaneers,24,27,21,28,True,False
+2016,2,13,2016-12-05 01:30:00+00:00,400874728,Seattle Seahawks,Carolina Panthers,26,29,40,7,True,False
+2016,2,13,2016-12-06 01:30:00+00:00,400874729,New York Jets,Indianapolis Colts,20,11,10,41,True,False
+2016,2,14,2016-12-09 01:25:00+00:00,400874428,Kansas City Chiefs,Oakland Raiders,12,13,21,13,True,False
+2016,2,14,2016-12-11 18:00:00+00:00,400874497,Buffalo Bills,Pittsburgh Steelers,2,23,20,27,True,False
+2016,2,14,2016-12-11 18:00:00+00:00,400874563,Cleveland Browns,Cincinnati Bengals,5,4,10,23,True,False
+2016,2,14,2016-12-11 18:00:00+00:00,400874568,Detroit Lions,Chicago Bears,8,3,20,17,True,False
+2016,2,14,2016-12-11 18:00:00+00:00,400874504,Tennessee Titans,Denver Broncos,10,7,13,10,True,False
+2016,2,14,2016-12-11 18:00:00+00:00,400874611,Indianapolis Colts,Houston Texans,11,34,17,22,True,False
+2016,2,14,2016-12-11 18:00:00+00:00,400874556,Miami Dolphins,Arizona Cardinals,15,22,26,23,True,False
+2016,2,14,2016-12-11 18:00:00+00:00,400874552,Philadelphia Eagles,Washington Redskins,21,28,22,27,True,False
+2016,2,14,2016-12-11 18:00:00+00:00,400874559,Carolina Panthers,San Diego Chargers,29,24,28,16,True,False
+2016,2,14,2016-12-11 18:00:00+00:00,400874617,Jacksonville Jaguars,Minnesota Vikings,30,16,16,25,True,False
+2016,2,14,2016-12-11 21:05:00+00:00,400874621,San Francisco 49ers,New York Jets,25,20,17,23,True,False
+2016,2,14,2016-12-11 21:25:00+00:00,400874651,Green Bay Packers,Seattle Seahawks,9,26,38,10,True,False
+2016,2,14,2016-12-11 21:25:00+00:00,400874627,Los Angeles Rams,Atlanta Falcons,14,1,14,42,True,False
+2016,2,14,2016-12-11 21:25:00+00:00,400874550,Tampa Bay Buccaneers,New Orleans Saints,27,18,16,11,True,False
+2016,2,14,2016-12-12 01:30:00+00:00,400874656,New York Giants,Dallas Cowboys,19,6,10,7,True,False
+2016,2,14,2016-12-13 01:30:00+00:00,400874661,New England Patriots,Baltimore Ravens,17,33,30,23,True,False
+2016,2,15,2016-12-16 01:25:00+00:00,400874667,Seattle Seahawks,Los Angeles Rams,26,14,24,3,True,False
+2016,2,15,2016-12-18 01:25:00+00:00,400874673,New York Jets,Miami Dolphins,20,15,13,34,True,False
+2016,2,15,2016-12-18 18:00:00+00:00,400874683,Buffalo Bills,Cleveland Browns,2,5,33,13,True,False
+2016,2,15,2016-12-18 18:00:00+00:00,400874678,Chicago Bears,Green Bay Packers,3,9,27,30,True,False
+2016,2,15,2016-12-18 18:00:00+00:00,400874714,Cincinnati Bengals,Pittsburgh Steelers,4,23,20,24,True,False
+2016,2,15,2016-12-18 18:00:00+00:00,400874686,Kansas City Chiefs,Tennessee Titans,12,10,17,19,True,False
+2016,2,15,2016-12-18 18:00:00+00:00,400874688,Minnesota Vikings,Indianapolis Colts,16,11,6,34,True,False
+2016,2,15,2016-12-18 18:00:00+00:00,400874687,New York Giants,Detroit Lions,19,8,17,6,True,False
+2016,2,15,2016-12-18 18:00:00+00:00,400874685,Baltimore Ravens,Philadelphia Eagles,33,21,27,26,True,False
+2016,2,15,2016-12-18 18:00:00+00:00,400874681,Houston Texans,Jacksonville Jaguars,34,30,21,20,True,False
+2016,2,15,2016-12-18 21:05:00+00:00,400874710,Atlanta Falcons,San Francisco 49ers,1,25,41,13,True,False
+2016,2,15,2016-12-18 21:05:00+00:00,400874689,Arizona Cardinals,New Orleans Saints,22,18,41,48,True,False
+2016,2,15,2016-12-18 21:25:00+00:00,400874711,Denver Broncos,New England Patriots,7,17,3,16,True,False
+2016,2,15,2016-12-18 21:25:00+00:00,400874712,San Diego Chargers,Oakland Raiders,24,13,16,19,True,False
+2016,2,15,2016-12-19 01:30:00+00:00,400874679,Dallas Cowboys,Tampa Bay Buccaneers,6,27,26,20,True,False
+2016,2,15,2016-12-20 01:30:00+00:00,400874716,Washington Redskins,Carolina Panthers,28,29,15,26,True,False
+2016,2,16,2016-12-23 01:25:00+00:00,400874485,Philadelphia Eagles,New York Giants,21,19,24,19,True,False
+2016,2,16,2016-12-24 18:00:00+00:00,400874489,Buffalo Bills,Miami Dolphins,2,15,31,34,True,False
+2016,2,16,2016-12-24 18:00:00+00:00,400874534,Chicago Bears,Washington Redskins,3,28,21,41,True,False
+2016,2,16,2016-12-24 18:00:00+00:00,400874528,Cleveland Browns,San Diego Chargers,5,24,20,17,True,False
+2016,2,16,2016-12-24 18:00:00+00:00,400874523,Green Bay Packers,Minnesota Vikings,9,16,38,25,True,False
+2016,2,16,2016-12-24 18:00:00+00:00,400874516,New England Patriots,New York Jets,17,20,41,3,True,False
+2016,2,16,2016-12-24 18:00:00+00:00,400874540,Carolina Panthers,Atlanta Falcons,29,1,16,33,True,False
+2016,2,16,2016-12-24 18:00:00+00:00,400874521,Jacksonville Jaguars,Tennessee Titans,30,10,38,17,True,False
+2016,2,16,2016-12-24 21:05:00+00:00,400874546,Oakland Raiders,Indianapolis Colts,13,11,33,25,True,False
+2016,2,16,2016-12-24 21:25:00+00:00,400874575,Los Angeles Rams,San Francisco 49ers,14,25,21,22,True,False
+2016,2,16,2016-12-24 21:25:00+00:00,400874513,New Orleans Saints,Tampa Bay Buccaneers,18,27,31,24,True,False
+2016,2,16,2016-12-24 21:25:00+00:00,400874571,Seattle Seahawks,Arizona Cardinals,26,22,31,34,True,False
+2016,2,16,2016-12-25 01:25:00+00:00,400874579,Houston Texans,Cincinnati Bengals,34,4,12,10,True,False
+2016,2,16,2016-12-25 21:30:00+00:00,400874583,Pittsburgh Steelers,Baltimore Ravens,23,33,31,27,True,False
+2016,2,16,2016-12-26 01:30:00+00:00,400874585,Kansas City Chiefs,Denver Broncos,12,7,33,10,True,False
+2016,2,16,2016-12-27 01:30:00+00:00,400874588,Dallas Cowboys,Detroit Lions,6,8,42,21,True,False
+2016,2,17,2017-01-01 18:00:00+00:00,400874608,Cincinnati Bengals,Baltimore Ravens,4,33,27,10,True,False
+2016,2,17,2017-01-01 18:00:00+00:00,400874632,Tennessee Titans,Houston Texans,10,34,24,17,True,False
+2016,2,17,2017-01-01 18:00:00+00:00,400874639,Indianapolis Colts,Jacksonville Jaguars,11,30,24,20,True,False
+2016,2,17,2017-01-01 18:00:00+00:00,400874642,Miami Dolphins,New England Patriots,15,17,14,35,True,False
+2016,2,17,2017-01-01 18:00:00+00:00,400874643,Minnesota Vikings,Chicago Bears,16,3,38,10,True,False
+2016,2,17,2017-01-01 18:00:00+00:00,400874645,New York Jets,Buffalo Bills,20,2,30,10,True,False
+2016,2,17,2017-01-01 18:00:00+00:00,400874647,Philadelphia Eagles,Dallas Cowboys,21,6,27,13,True,False
+2016,2,17,2017-01-01 18:00:00+00:00,400874690,Pittsburgh Steelers,Cleveland Browns,23,5,27,24,True,False
+2016,2,17,2017-01-01 18:00:00+00:00,400874635,Tampa Bay Buccaneers,Carolina Panthers,27,29,17,16,True,False
+2016,2,17,2017-01-01 21:25:00+00:00,400874606,Atlanta Falcons,New Orleans Saints,1,18,38,32,True,False
+2016,2,17,2017-01-01 21:25:00+00:00,400874694,Denver Broncos,Oakland Raiders,7,13,24,6,True,False
+2016,2,17,2017-01-01 21:25:00+00:00,400874692,Los Angeles Rams,Arizona Cardinals,14,22,6,44,True,False
+2016,2,17,2017-01-01 21:25:00+00:00,400874696,San Diego Chargers,Kansas City Chiefs,24,12,27,37,True,False
+2016,2,17,2017-01-01 21:25:00+00:00,400874699,San Francisco 49ers,Seattle Seahawks,25,26,23,25,True,False
+2016,2,17,2017-01-01 21:25:00+00:00,400874631,Washington Redskins,New York Giants,28,19,10,19,True,False
+2016,2,17,2017-01-02 01:30:00+00:00,400874637,Detroit Lions,Green Bay Packers,8,9,24,31,True,False

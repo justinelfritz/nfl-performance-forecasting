@@ -1,0 +1,257 @@
+Season,SeasonType,Week,Date,GameID,HomeTeam,AwayTeam,HomeID,AwayID,HomeScore,AwayScore,Completed,NeutralSite
+2018,2,1,2018-09-07 00:55:00+00:00,401030710,Philadelphia Eagles,Atlanta Falcons,21,1,18,12,True,False
+2018,2,1,2018-09-09 17:00:00+00:00,401030718,Cleveland Browns,Pittsburgh Steelers,5,23,21,21,True,False
+2018,2,1,2018-09-09 17:00:00+00:00,401030717,Indianapolis Colts,Cincinnati Bengals,11,4,23,34,True,False
+2018,2,1,2018-09-09 17:00:00+00:00,401030716,Miami Dolphins,Tennessee Titans,15,10,27,20,True,False
+2018,2,1,2018-09-09 17:00:00+00:00,401030715,Minnesota Vikings,San Francisco 49ers,16,25,24,16,True,False
+2018,2,1,2018-09-09 17:00:00+00:00,401030714,New England Patriots,Houston Texans,17,34,27,20,True,False
+2018,2,1,2018-09-09 17:00:00+00:00,401030713,New Orleans Saints,Tampa Bay Buccaneers,18,27,40,48,True,False
+2018,2,1,2018-09-09 17:00:00+00:00,401030712,New York Giants,Jacksonville Jaguars,19,30,15,20,True,False
+2018,2,1,2018-09-09 17:00:00+00:00,401030711,Baltimore Ravens,Buffalo Bills,33,2,47,3,True,False
+2018,2,1,2018-09-09 20:05:00+00:00,401030720,Los Angeles Chargers,Kansas City Chiefs,24,12,28,38,True,False
+2018,2,1,2018-09-09 20:25:00+00:00,401030721,Denver Broncos,Seattle Seahawks,7,26,27,24,True,False
+2018,2,1,2018-09-09 20:25:00+00:00,401030725,Arizona Cardinals,Washington Redskins,22,28,6,24,True,False
+2018,2,1,2018-09-09 20:25:00+00:00,401030723,Carolina Panthers,Dallas Cowboys,29,6,16,8,True,False
+2018,2,1,2018-09-10 00:20:00+00:00,401030726,Green Bay Packers,Chicago Bears,9,3,24,23,True,False
+2018,2,1,2018-09-10 23:10:00+00:00,401030728,Detroit Lions,New York Jets,8,20,17,48,True,False
+2018,2,1,2018-09-11 02:20:00+00:00,401030751,Oakland Raiders,Los Angeles Rams,13,14,13,33,True,False
+2018,2,2,2018-09-14 00:20:00+00:00,401030690,Cincinnati Bengals,Baltimore Ravens,4,33,34,23,True,False
+2018,2,2,2018-09-16 17:00:00+00:00,401030691,Atlanta Falcons,Carolina Panthers,1,29,31,24,True,False
+2018,2,2,2018-09-16 17:00:00+00:00,401030704,Buffalo Bills,Los Angeles Chargers,2,24,20,31,True,False
+2018,2,2,2018-09-16 17:00:00+00:00,401030705,Green Bay Packers,Minnesota Vikings,9,16,29,29,True,False
+2018,2,2,2018-09-16 17:00:00+00:00,401030694,Tennessee Titans,Houston Texans,10,34,20,17,True,False
+2018,2,2,2018-09-16 17:00:00+00:00,401030708,New Orleans Saints,Cleveland Browns,18,5,21,18,True,False
+2018,2,2,2018-09-16 17:00:00+00:00,401030700,New York Jets,Miami Dolphins,20,15,12,20,True,False
+2018,2,2,2018-09-16 17:00:00+00:00,401030698,Pittsburgh Steelers,Kansas City Chiefs,23,12,37,42,True,False
+2018,2,2,2018-09-16 17:00:00+00:00,401030696,Tampa Bay Buccaneers,Philadelphia Eagles,27,21,27,21,True,False
+2018,2,2,2018-09-16 17:00:00+00:00,401030693,Washington Redskins,Indianapolis Colts,28,11,9,21,True,False
+2018,2,2,2018-09-16 20:05:00+00:00,401030732,Los Angeles Rams,Arizona Cardinals,14,22,34,0,True,False
+2018,2,2,2018-09-16 20:05:00+00:00,401030730,San Francisco 49ers,Detroit Lions,25,8,30,27,True,False
+2018,2,2,2018-09-16 20:25:00+00:00,401030736,Denver Broncos,Oakland Raiders,7,13,20,19,True,False
+2018,2,2,2018-09-16 20:25:00+00:00,401030733,Jacksonville Jaguars,New England Patriots,30,17,31,20,True,False
+2018,2,2,2018-09-17 00:20:00+00:00,401030738,Dallas Cowboys,New York Giants,6,19,20,13,True,False
+2018,2,2,2018-09-18 00:15:00+00:00,401030739,Chicago Bears,Seattle Seahawks,3,26,24,17,True,False
+2018,2,3,2018-09-21 00:20:00+00:00,401030775,Cleveland Browns,New York Jets,5,20,21,17,True,False
+2018,2,3,2018-09-23 17:00:00+00:00,401030777,Atlanta Falcons,New Orleans Saints,1,18,37,43,True,False
+2018,2,3,2018-09-23 17:00:00+00:00,401030795,Kansas City Chiefs,San Francisco 49ers,12,25,38,27,True,False
+2018,2,3,2018-09-23 17:00:00+00:00,401030787,Miami Dolphins,Oakland Raiders,15,13,28,20,True,False
+2018,2,3,2018-09-23 17:00:00+00:00,401030784,Minnesota Vikings,Buffalo Bills,16,2,6,27,True,False
+2018,2,3,2018-09-23 17:00:00+00:00,401030782,Philadelphia Eagles,Indianapolis Colts,21,11,20,16,True,False
+2018,2,3,2018-09-23 17:00:00+00:00,401030781,Washington Redskins,Green Bay Packers,28,9,31,17,True,False
+2018,2,3,2018-09-23 17:00:00+00:00,401030790,Carolina Panthers,Cincinnati Bengals,29,4,31,21,True,False
+2018,2,3,2018-09-23 17:00:00+00:00,401030794,Jacksonville Jaguars,Tennessee Titans,30,10,6,9,True,False
+2018,2,3,2018-09-23 17:00:00+00:00,401030788,Baltimore Ravens,Denver Broncos,33,7,27,14,True,False
+2018,2,3,2018-09-23 17:00:00+00:00,401030791,Houston Texans,New York Giants,34,19,22,27,True,False
+2018,2,3,2018-09-23 20:05:00+00:00,401030798,Los Angeles Rams,Los Angeles Chargers,14,24,35,23,True,False
+2018,2,3,2018-09-23 20:25:00+00:00,401030801,Arizona Cardinals,Chicago Bears,22,3,14,16,True,False
+2018,2,3,2018-09-23 20:25:00+00:00,401030799,Seattle Seahawks,Dallas Cowboys,26,6,24,13,True,False
+2018,2,3,2018-09-24 00:20:00+00:00,401030802,Detroit Lions,New England Patriots,8,17,26,10,True,False
+2018,2,3,2018-09-25 00:15:00+00:00,401030805,Tampa Bay Buccaneers,Pittsburgh Steelers,27,23,27,30,True,False
+2018,2,4,2018-09-28 00:20:00+00:00,401030839,Los Angeles Rams,Minnesota Vikings,14,16,38,31,True,False
+2018,2,4,2018-09-30 17:00:00+00:00,401030847,Atlanta Falcons,Cincinnati Bengals,1,4,36,37,True,False
+2018,2,4,2018-09-30 17:00:00+00:00,401030846,Chicago Bears,Tampa Bay Buccaneers,3,27,48,10,True,False
+2018,2,4,2018-09-30 17:00:00+00:00,401030845,Dallas Cowboys,Detroit Lions,6,8,26,24,True,False
+2018,2,4,2018-09-30 17:00:00+00:00,401030844,Green Bay Packers,Buffalo Bills,9,2,22,0,True,False
+2018,2,4,2018-09-30 17:00:00+00:00,401030842,Tennessee Titans,Philadelphia Eagles,10,21,26,23,True,False
+2018,2,4,2018-09-30 17:00:00+00:00,401030843,Indianapolis Colts,Houston Texans,11,34,34,37,True,False
+2018,2,4,2018-09-30 17:00:00+00:00,401030841,New England Patriots,Miami Dolphins,17,15,38,7,True,False
+2018,2,4,2018-09-30 17:00:00+00:00,401030840,Jacksonville Jaguars,New York Jets,30,20,31,12,True,False
+2018,2,4,2018-09-30 20:05:00+00:00,401030930,Oakland Raiders,Cleveland Browns,13,5,45,42,True,False
+2018,2,4,2018-09-30 20:05:00+00:00,401030848,Arizona Cardinals,Seattle Seahawks,22,26,17,20,True,False
+2018,2,4,2018-09-30 20:25:00+00:00,401030931,New York Giants,New Orleans Saints,19,18,18,33,True,False
+2018,2,4,2018-09-30 20:25:00+00:00,401030932,Los Angeles Chargers,San Francisco 49ers,24,25,29,27,True,False
+2018,2,4,2018-10-01 00:20:00+00:00,401030933,Pittsburgh Steelers,Baltimore Ravens,23,33,14,26,True,False
+2018,2,4,2018-10-02 00:15:00+00:00,401030934,Denver Broncos,Kansas City Chiefs,7,12,23,27,True,False
+2018,2,5,2018-10-05 00:20:00+00:00,401030697,New England Patriots,Indianapolis Colts,17,11,38,24,True,False
+2018,2,5,2018-10-07 17:00:00+00:00,401030702,Buffalo Bills,Tennessee Titans,2,10,13,12,True,False
+2018,2,5,2018-10-07 17:00:00+00:00,401030785,Cincinnati Bengals,Miami Dolphins,4,15,27,17,True,False
+2018,2,5,2018-10-07 17:00:00+00:00,401030770,Cleveland Browns,Baltimore Ravens,5,33,12,9,True,False
+2018,2,5,2018-10-07 17:00:00+00:00,401030745,Detroit Lions,Green Bay Packers,8,9,31,23,True,False
+2018,2,5,2018-10-07 17:00:00+00:00,401030741,Kansas City Chiefs,Jacksonville Jaguars,12,30,30,14,True,False
+2018,2,5,2018-10-07 17:00:00+00:00,401030734,New York Jets,Denver Broncos,20,7,34,16,True,False
+2018,2,5,2018-10-07 17:00:00+00:00,401030709,Pittsburgh Steelers,Atlanta Falcons,23,1,41,17,True,False
+2018,2,5,2018-10-07 17:00:00+00:00,401030778,Carolina Panthers,New York Giants,29,19,33,31,True,False
+2018,2,5,2018-10-07 20:05:00+00:00,401030793,Los Angeles Chargers,Oakland Raiders,24,13,26,10,True,False
+2018,2,5,2018-10-07 20:25:00+00:00,401030803,Philadelphia Eagles,Minnesota Vikings,21,16,21,23,True,False
+2018,2,5,2018-10-07 20:25:00+00:00,401030797,San Francisco 49ers,Arizona Cardinals,25,22,18,28,True,False
+2018,2,5,2018-10-07 20:25:00+00:00,401030808,Seattle Seahawks,Los Angeles Rams,26,14,31,33,True,False
+2018,2,5,2018-10-08 00:20:00+00:00,401030831,Houston Texans,Dallas Cowboys,34,6,19,16,True,False
+2018,2,5,2018-10-09 00:15:00+00:00,401030834,New Orleans Saints,Washington Redskins,18,28,43,19,True,False
+2018,2,6,2018-10-12 00:20:00+00:00,401030692,New York Giants,Philadelphia Eagles,19,21,13,34,True,False
+2018,2,6,2018-10-14 17:00:00+00:00,401030695,Atlanta Falcons,Tampa Bay Buccaneers,1,27,34,29,True,False
+2018,2,6,2018-10-14 17:00:00+00:00,401030743,Cincinnati Bengals,Pittsburgh Steelers,4,23,21,28,True,False
+2018,2,6,2018-10-14 17:00:00+00:00,401030746,Cleveland Browns,Los Angeles Chargers,5,24,14,38,True,False
+2018,2,6,2018-10-14 17:00:00+00:00,401030706,Oakland Raiders,Seattle Seahawks,13,26,3,27,True,True
+2018,2,6,2018-10-14 17:00:00+00:00,401030771,Miami Dolphins,Chicago Bears,15,3,31,28,True,False
+2018,2,6,2018-10-14 17:00:00+00:00,401030742,Minnesota Vikings,Arizona Cardinals,16,22,27,17,True,False
+2018,2,6,2018-10-14 17:00:00+00:00,401030737,New York Jets,Indianapolis Colts,20,11,42,34,True,False
+2018,2,6,2018-10-14 17:00:00+00:00,401030701,Washington Redskins,Carolina Panthers,28,29,23,17,True,False
+2018,2,6,2018-10-14 17:00:00+00:00,401030748,Houston Texans,Buffalo Bills,34,2,20,13,True,False
+2018,2,6,2018-10-14 20:05:00+00:00,401030773,Denver Broncos,Los Angeles Rams,7,14,20,23,True,False
+2018,2,6,2018-10-14 20:25:00+00:00,401030776,Dallas Cowboys,Jacksonville Jaguars,6,30,40,7,True,False
+2018,2,6,2018-10-14 20:25:00+00:00,401030774,Tennessee Titans,Baltimore Ravens,10,33,0,21,True,False
+2018,2,6,2018-10-15 00:20:00+00:00,401030779,New England Patriots,Kansas City Chiefs,17,12,43,40,True,False
+2018,2,6,2018-10-16 00:15:00+00:00,401030783,Green Bay Packers,San Francisco 49ers,9,25,33,30,True,False
+2018,2,7,2018-10-19 00:20:00+00:00,401030800,Arizona Cardinals,Denver Broncos,22,7,10,45,True,False
+2018,2,7,2018-10-21 13:30:00+00:00,401030792,Los Angeles Chargers,Tennessee Titans,24,10,20,19,True,True
+2018,2,7,2018-10-21 17:00:00+00:00,401030832,Chicago Bears,New England Patriots,3,17,31,38,True,False
+2018,2,7,2018-10-21 17:00:00+00:00,401030833,Indianapolis Colts,Buffalo Bills,11,2,37,5,True,False
+2018,2,7,2018-10-21 17:00:00+00:00,401030830,Miami Dolphins,Detroit Lions,15,8,21,32,True,False
+2018,2,7,2018-10-21 17:00:00+00:00,401030809,New York Jets,Minnesota Vikings,20,16,17,37,True,False
+2018,2,7,2018-10-21 17:00:00+00:00,401030807,Philadelphia Eagles,Carolina Panthers,21,29,17,21,True,False
+2018,2,7,2018-10-21 17:00:00+00:00,401030806,Tampa Bay Buccaneers,Cleveland Browns,27,5,26,23,True,False
+2018,2,7,2018-10-21 17:00:00+00:00,401030835,Jacksonville Jaguars,Houston Texans,30,34,7,20,True,False
+2018,2,7,2018-10-21 20:05:00+00:00,401030836,Baltimore Ravens,New Orleans Saints,33,18,23,24,True,False
+2018,2,7,2018-10-21 20:25:00+00:00,401030838,San Francisco 49ers,Los Angeles Rams,25,14,10,39,True,False
+2018,2,7,2018-10-21 20:25:00+00:00,401030837,Washington Redskins,Dallas Cowboys,28,6,20,17,True,False
+2018,2,7,2018-10-22 00:20:00+00:00,401030804,Kansas City Chiefs,Cincinnati Bengals,12,4,45,10,True,False
+2018,2,7,2018-10-23 00:15:00+00:00,401030796,Atlanta Falcons,New York Giants,1,19,23,20,True,False
+2018,2,8,2018-10-26 00:20:00+00:00,401030703,Houston Texans,Miami Dolphins,34,15,42,23,True,False
+2018,2,8,2018-10-28 13:30:00+00:00,401030699,Jacksonville Jaguars,Philadelphia Eagles,30,21,18,24,True,True
+2018,2,8,2018-10-28 17:00:00+00:00,401030747,Chicago Bears,New York Jets,3,20,24,10,True,False
+2018,2,8,2018-10-28 17:00:00+00:00,401030744,Cincinnati Bengals,Tampa Bay Buccaneers,4,27,37,34,True,False
+2018,2,8,2018-10-28 17:00:00+00:00,401030740,Detroit Lions,Seattle Seahawks,8,26,14,28,True,False
+2018,2,8,2018-10-28 17:00:00+00:00,401030707,Kansas City Chiefs,Denver Broncos,12,7,30,23,True,False
+2018,2,8,2018-10-28 17:00:00+00:00,401030735,New York Giants,Washington Redskins,19,28,13,20,True,False
+2018,2,8,2018-10-28 17:00:00+00:00,401030731,Pittsburgh Steelers,Cleveland Browns,23,5,33,18,True,False
+2018,2,8,2018-10-28 17:00:00+00:00,401030849,Carolina Panthers,Baltimore Ravens,29,33,36,21,True,False
+2018,2,8,2018-10-28 20:05:00+00:00,401030749,Oakland Raiders,Indianapolis Colts,13,11,28,42,True,False
+2018,2,8,2018-10-28 20:25:00+00:00,401030780,Los Angeles Rams,Green Bay Packers,14,9,29,27,True,False
+2018,2,8,2018-10-28 20:25:00+00:00,401030772,Arizona Cardinals,San Francisco 49ers,22,25,18,15,True,False
+2018,2,8,2018-10-29 00:20:00+00:00,401030786,Minnesota Vikings,New Orleans Saints,16,18,20,30,True,False
+2018,2,8,2018-10-30 00:15:00+00:00,401030789,Buffalo Bills,New England Patriots,2,17,6,25,True,False
+2018,2,9,2018-11-02 00:20:00+00:00,401030767,San Francisco 49ers,Oakland Raiders,25,13,34,3,True,False
+2018,2,9,2018-11-04 18:00:00+00:00,401030769,Buffalo Bills,Chicago Bears,2,3,9,41,True,False
+2018,2,9,2018-11-04 18:00:00+00:00,401030814,Cleveland Browns,Kansas City Chiefs,5,12,21,37,True,False
+2018,2,9,2018-11-04 18:00:00+00:00,401030816,Miami Dolphins,New York Jets,15,20,13,6,True,False
+2018,2,9,2018-11-04 18:00:00+00:00,401030822,Minnesota Vikings,Detroit Lions,16,8,24,9,True,False
+2018,2,9,2018-11-04 18:00:00+00:00,401030826,Washington Redskins,Atlanta Falcons,28,1,14,38,True,False
+2018,2,9,2018-11-04 18:00:00+00:00,401030811,Carolina Panthers,Tampa Bay Buccaneers,29,27,42,28,True,False
+2018,2,9,2018-11-04 18:00:00+00:00,401030819,Baltimore Ravens,Pittsburgh Steelers,33,23,16,23,True,False
+2018,2,9,2018-11-04 21:05:00+00:00,401030829,Denver Broncos,Houston Texans,7,34,17,19,True,False
+2018,2,9,2018-11-04 21:05:00+00:00,401030852,Seattle Seahawks,Los Angeles Chargers,26,24,17,25,True,False
+2018,2,9,2018-11-04 21:25:00+00:00,401030855,New Orleans Saints,Los Angeles Rams,18,14,45,35,True,False
+2018,2,9,2018-11-05 01:20:00+00:00,401030858,New England Patriots,Green Bay Packers,17,9,31,17,True,False
+2018,2,9,2018-11-06 01:15:00+00:00,401030862,Dallas Cowboys,Tennessee Titans,6,10,14,28,True,False
+2018,2,10,2018-11-09 01:20:00+00:00,401030729,Pittsburgh Steelers,Carolina Panthers,23,29,52,21,True,False
+2018,2,10,2018-11-11 18:00:00+00:00,401030810,Chicago Bears,Detroit Lions,3,8,34,22,True,False
+2018,2,10,2018-11-11 18:00:00+00:00,401030752,Cincinnati Bengals,New Orleans Saints,4,18,14,51,True,False
+2018,2,10,2018-11-11 18:00:00+00:00,401030754,Cleveland Browns,Atlanta Falcons,5,1,28,16,True,False
+2018,2,10,2018-11-11 18:00:00+00:00,401030821,Tennessee Titans,New England Patriots,10,17,34,10,True,False
+2018,2,10,2018-11-11 18:00:00+00:00,401030766,Indianapolis Colts,Jacksonville Jaguars,11,30,29,26,True,False
+2018,2,10,2018-11-11 18:00:00+00:00,401030815,Kansas City Chiefs,Arizona Cardinals,12,22,26,14,True,False
+2018,2,10,2018-11-11 18:00:00+00:00,401030853,New York Jets,Buffalo Bills,20,2,10,41,True,False
+2018,2,10,2018-11-11 18:00:00+00:00,401030828,Tampa Bay Buccaneers,Washington Redskins,27,28,3,16,True,False
+2018,2,10,2018-11-11 21:05:00+00:00,401030859,Oakland Raiders,Los Angeles Chargers,13,24,6,20,True,False
+2018,2,10,2018-11-11 21:25:00+00:00,401030756,Green Bay Packers,Miami Dolphins,9,15,31,12,True,False
+2018,2,10,2018-11-11 21:25:00+00:00,401030865,Los Angeles Rams,Seattle Seahawks,14,26,36,31,True,False
+2018,2,10,2018-11-12 01:20:00+00:00,401030869,Philadelphia Eagles,Dallas Cowboys,21,6,20,27,True,False
+2018,2,10,2018-11-13 01:15:00+00:00,401030873,San Francisco 49ers,New York Giants,25,19,23,27,True,False
+2018,2,11,2018-11-16 01:20:00+00:00,401030878,Seattle Seahawks,Green Bay Packers,26,9,27,24,True,False
+2018,2,11,2018-11-18 18:00:00+00:00,401030929,Atlanta Falcons,Dallas Cowboys,1,6,19,22,True,False
+2018,2,11,2018-11-18 18:00:00+00:00,401030910,Detroit Lions,Carolina Panthers,8,29,20,19,True,False
+2018,2,11,2018-11-18 18:00:00+00:00,401030922,Indianapolis Colts,Tennessee Titans,11,10,38,10,True,False
+2018,2,11,2018-11-18 18:00:00+00:00,401030952,New York Giants,Tampa Bay Buccaneers,19,27,38,35,True,False
+2018,2,11,2018-11-18 18:00:00+00:00,401030966,Washington Redskins,Houston Texans,28,34,21,23,True,False
+2018,2,11,2018-11-18 18:00:00+00:00,401030971,Jacksonville Jaguars,Pittsburgh Steelers,30,23,16,20,True,False
+2018,2,11,2018-11-18 18:00:00+00:00,401030894,Baltimore Ravens,Cincinnati Bengals,33,4,24,21,True,False
+2018,2,11,2018-11-18 21:05:00+00:00,401030970,Arizona Cardinals,Oakland Raiders,22,13,21,23,True,False
+2018,2,11,2018-11-18 21:05:00+00:00,401030969,Los Angeles Chargers,Denver Broncos,24,7,22,23,True,False
+2018,2,11,2018-11-18 21:25:00+00:00,401030963,New Orleans Saints,Philadelphia Eagles,18,21,48,7,True,False
+2018,2,11,2018-11-19 01:20:00+00:00,401030903,Chicago Bears,Minnesota Vikings,3,16,25,20,True,False
+2018,2,11,2018-11-20 01:15:00+00:00,401030972,Los Angeles Rams,Kansas City Chiefs,14,12,54,51,True,False
+2018,2,12,2018-11-22 17:30:00+00:00,401030905,Detroit Lions,Chicago Bears,8,3,16,23,True,False
+2018,2,12,2018-11-22 21:30:00+00:00,401030925,Dallas Cowboys,Washington Redskins,6,28,31,23,True,False
+2018,2,12,2018-11-23 01:20:00+00:00,401030923,New Orleans Saints,Atlanta Falcons,18,1,31,17,True,False
+2018,2,12,2018-11-25 18:00:00+00:00,401030919,Buffalo Bills,Jacksonville Jaguars,2,30,24,21,True,False
+2018,2,12,2018-11-25 18:00:00+00:00,401030921,Cincinnati Bengals,Cleveland Browns,4,5,20,35,True,False
+2018,2,12,2018-11-25 18:00:00+00:00,401030904,New York Jets,New England Patriots,20,17,13,27,True,False
+2018,2,12,2018-11-25 18:00:00+00:00,401030914,Philadelphia Eagles,New York Giants,21,19,25,22,True,False
+2018,2,12,2018-11-25 18:00:00+00:00,401030902,Tampa Bay Buccaneers,San Francisco 49ers,27,25,27,9,True,False
+2018,2,12,2018-11-25 18:00:00+00:00,401030920,Carolina Panthers,Seattle Seahawks,29,26,27,30,True,False
+2018,2,12,2018-11-25 18:00:00+00:00,401030916,Baltimore Ravens,Oakland Raiders,33,13,34,17,True,False
+2018,2,12,2018-11-25 21:05:00+00:00,401030912,Los Angeles Chargers,Arizona Cardinals,24,22,45,10,True,False
+2018,2,12,2018-11-25 21:25:00+00:00,401030911,Denver Broncos,Pittsburgh Steelers,7,23,24,17,True,False
+2018,2,12,2018-11-25 21:25:00+00:00,401030906,Indianapolis Colts,Miami Dolphins,11,15,27,24,True,False
+2018,2,12,2018-11-26 01:20:00+00:00,401030908,Minnesota Vikings,Green Bay Packers,16,9,24,17,True,False
+2018,2,12,2018-11-27 01:15:00+00:00,401030762,Houston Texans,Tennessee Titans,34,10,34,17,True,False
+2018,2,13,2018-11-30 01:20:00+00:00,401030899,Dallas Cowboys,New Orleans Saints,6,18,13,10,True,False
+2018,2,13,2018-12-02 18:00:00+00:00,401030928,Atlanta Falcons,Baltimore Ravens,1,33,16,26,True,False
+2018,2,13,2018-12-02 18:00:00+00:00,401030955,Cincinnati Bengals,Denver Broncos,4,7,10,24,True,False
+2018,2,13,2018-12-02 18:00:00+00:00,401030957,Detroit Lions,Los Angeles Rams,8,14,16,30,True,False
+2018,2,13,2018-12-02 18:00:00+00:00,401030965,Green Bay Packers,Arizona Cardinals,9,22,17,20,True,False
+2018,2,13,2018-12-02 18:00:00+00:00,401030954,Miami Dolphins,Buffalo Bills,15,2,21,17,True,False
+2018,2,13,2018-12-02 18:00:00+00:00,401030953,New York Giants,Chicago Bears,19,3,30,27,True,False
+2018,2,13,2018-12-02 18:00:00+00:00,401030968,Tampa Bay Buccaneers,Carolina Panthers,27,29,24,17,True,False
+2018,2,13,2018-12-02 18:00:00+00:00,401030962,Jacksonville Jaguars,Indianapolis Colts,30,11,6,0,True,False
+2018,2,13,2018-12-02 18:00:00+00:00,401030964,Houston Texans,Cleveland Browns,34,5,29,13,True,False
+2018,2,13,2018-12-02 21:05:00+00:00,401030960,Tennessee Titans,New York Jets,10,20,26,22,True,False
+2018,2,13,2018-12-02 21:05:00+00:00,401030935,Oakland Raiders,Kansas City Chiefs,13,12,33,40,True,False
+2018,2,13,2018-12-02 21:25:00+00:00,401030959,New England Patriots,Minnesota Vikings,17,16,24,10,True,False
+2018,2,13,2018-12-02 21:25:00+00:00,401030958,Seattle Seahawks,San Francisco 49ers,26,25,43,16,True,False
+2018,2,13,2018-12-03 01:20:00+00:00,401030951,Pittsburgh Steelers,Los Angeles Chargers,23,24,30,33,True,False
+2018,2,13,2018-12-04 01:15:00+00:00,401030871,Philadelphia Eagles,Washington Redskins,21,28,28,13,True,False
+2018,2,14,2018-12-07 01:20:00+00:00,401030724,Tennessee Titans,Jacksonville Jaguars,10,30,30,9,True,False
+2018,2,14,2018-12-09 18:00:00+00:00,401030750,Buffalo Bills,New York Jets,2,20,23,27,True,False
+2018,2,14,2018-12-09 18:00:00+00:00,401030823,Cleveland Browns,Carolina Panthers,5,29,26,20,True,False
+2018,2,14,2018-12-09 18:00:00+00:00,401030825,Green Bay Packers,Atlanta Falcons,9,1,34,20,True,False
+2018,2,14,2018-12-09 18:00:00+00:00,401030764,Kansas City Chiefs,Baltimore Ravens,12,33,27,24,True,False
+2018,2,14,2018-12-09 18:00:00+00:00,401030761,Miami Dolphins,New England Patriots,15,17,34,33,True,False
+2018,2,14,2018-12-09 18:00:00+00:00,401030758,Tampa Bay Buccaneers,New Orleans Saints,27,18,14,28,True,False
+2018,2,14,2018-12-09 18:00:00+00:00,401030753,Washington Redskins,New York Giants,28,19,16,40,True,False
+2018,2,14,2018-12-09 18:00:00+00:00,401030813,Houston Texans,Indianapolis Colts,34,11,21,24,True,False
+2018,2,14,2018-12-09 21:05:00+00:00,401030851,Los Angeles Chargers,Cincinnati Bengals,24,4,26,21,True,False
+2018,2,14,2018-12-09 21:05:00+00:00,401030827,San Francisco 49ers,Denver Broncos,25,7,20,14,True,False
+2018,2,14,2018-12-09 21:25:00+00:00,401030854,Dallas Cowboys,Philadelphia Eagles,6,21,29,23,True,False
+2018,2,14,2018-12-09 21:25:00+00:00,401030863,Oakland Raiders,Pittsburgh Steelers,13,23,24,21,True,False
+2018,2,14,2018-12-09 21:25:00+00:00,401030860,Arizona Cardinals,Detroit Lions,22,8,3,17,True,False
+2018,2,14,2018-12-10 01:20:00+00:00,401030817,Chicago Bears,Los Angeles Rams,3,14,15,6,True,False
+2018,2,14,2018-12-11 01:15:00+00:00,401030867,Seattle Seahawks,Minnesota Vikings,26,16,21,7,True,False
+2018,2,15,2018-12-14 01:20:00+00:00,401030874,Kansas City Chiefs,Los Angeles Chargers,12,24,28,29,True,False
+2018,2,15,2018-12-15 21:30:00+00:00,401030891,New York Jets,Houston Texans,20,34,22,29,True,False
+2018,2,15,2018-12-16 01:20:00+00:00,401030876,Denver Broncos,Cleveland Browns,7,5,16,17,True,False
+2018,2,15,2018-12-16 18:00:00+00:00,401030900,Atlanta Falcons,Arizona Cardinals,1,22,40,14,True,False
+2018,2,15,2018-12-16 18:00:00+00:00,401030896,Buffalo Bills,Detroit Lions,2,8,14,13,True,False
+2018,2,15,2018-12-16 18:00:00+00:00,401030893,Chicago Bears,Green Bay Packers,3,9,24,17,True,False
+2018,2,15,2018-12-16 18:00:00+00:00,401030909,Cincinnati Bengals,Oakland Raiders,4,13,30,16,True,False
+2018,2,15,2018-12-16 18:00:00+00:00,401030927,Indianapolis Colts,Dallas Cowboys,11,6,23,0,True,False
+2018,2,15,2018-12-16 18:00:00+00:00,401030918,Minnesota Vikings,Miami Dolphins,16,15,41,17,True,False
+2018,2,15,2018-12-16 18:00:00+00:00,401030915,New York Giants,Tennessee Titans,19,10,0,17,True,False
+2018,2,15,2018-12-16 18:00:00+00:00,401030924,Jacksonville Jaguars,Washington Redskins,30,28,13,16,True,False
+2018,2,15,2018-12-16 18:00:00+00:00,401030898,Baltimore Ravens,Tampa Bay Buccaneers,33,27,20,12,True,False
+2018,2,15,2018-12-16 21:05:00+00:00,401030950,San Francisco 49ers,Seattle Seahawks,25,26,26,23,True,False
+2018,2,15,2018-12-16 21:25:00+00:00,401030956,Pittsburgh Steelers,New England Patriots,23,17,17,10,True,False
+2018,2,15,2018-12-17 01:20:00+00:00,401030961,Los Angeles Rams,Philadelphia Eagles,14,21,23,30,True,False
+2018,2,15,2018-12-18 01:15:00+00:00,401030967,Carolina Panthers,New Orleans Saints,29,18,9,12,True,False
+2018,2,16,2018-12-22 21:30:00+00:00,401030868,Tennessee Titans,Washington Redskins,10,28,25,16,True,False
+2018,2,16,2018-12-23 01:20:00+00:00,401030897,Los Angeles Chargers,Baltimore Ravens,24,33,10,22,True,False
+2018,2,16,2018-12-23 18:00:00+00:00,401030872,Cleveland Browns,Cincinnati Bengals,5,4,26,18,True,False
+2018,2,16,2018-12-23 18:00:00+00:00,401030875,Dallas Cowboys,Tampa Bay Buccaneers,6,27,27,20,True,False
+2018,2,16,2018-12-23 18:00:00+00:00,401030877,Detroit Lions,Minnesota Vikings,8,16,9,27,True,False
+2018,2,16,2018-12-23 18:00:00+00:00,401030861,Indianapolis Colts,New York Giants,11,19,28,27,True,False
+2018,2,16,2018-12-23 18:00:00+00:00,401030866,Miami Dolphins,Jacksonville Jaguars,15,30,7,17,True,False
+2018,2,16,2018-12-23 18:00:00+00:00,401030892,New England Patriots,Buffalo Bills,17,2,24,12,True,False
+2018,2,16,2018-12-23 18:00:00+00:00,401030870,New York Jets,Green Bay Packers,20,9,38,44,True,False
+2018,2,16,2018-12-23 18:00:00+00:00,401030864,Philadelphia Eagles,Houston Texans,21,34,32,30,True,False
+2018,2,16,2018-12-23 18:00:00+00:00,401030895,Carolina Panthers,Atlanta Falcons,29,1,10,24,True,False
+2018,2,16,2018-12-23 21:05:00+00:00,401030907,Arizona Cardinals,Los Angeles Rams,22,14,9,31,True,False
+2018,2,16,2018-12-23 21:05:00+00:00,401030901,San Francisco 49ers,Chicago Bears,25,3,9,14,True,False
+2018,2,16,2018-12-23 21:25:00+00:00,401030913,New Orleans Saints,Pittsburgh Steelers,18,23,31,28,True,False
+2018,2,16,2018-12-24 01:20:00+00:00,401030917,Seattle Seahawks,Kansas City Chiefs,26,12,38,31,True,False
+2018,2,16,2018-12-25 01:15:00+00:00,401030926,Oakland Raiders,Denver Broncos,13,7,27,14,True,False
+2018,2,17,2018-12-30 18:00:00+00:00,401030722,Buffalo Bills,Miami Dolphins,2,15,42,17,True,False
+2018,2,17,2018-12-30 18:00:00+00:00,401030757,Green Bay Packers,Detroit Lions,9,8,0,31,True,False
+2018,2,17,2018-12-30 18:00:00+00:00,401030765,New England Patriots,New York Jets,17,20,38,3,True,False
+2018,2,17,2018-12-30 18:00:00+00:00,401030768,New Orleans Saints,Carolina Panthers,18,29,14,33,True,False
+2018,2,17,2018-12-30 18:00:00+00:00,401030812,New York Giants,Dallas Cowboys,19,6,35,36,True,False
+2018,2,17,2018-12-30 18:00:00+00:00,401030820,Tampa Bay Buccaneers,Atlanta Falcons,27,1,32,34,True,False
+2018,2,17,2018-12-30 18:00:00+00:00,401030759,Houston Texans,Jacksonville Jaguars,34,30,20,3,True,False
+2018,2,17,2018-12-30 21:25:00+00:00,401030824,Denver Broncos,Los Angeles Chargers,7,24,9,23,True,False
+2018,2,17,2018-12-30 21:25:00+00:00,401030760,Kansas City Chiefs,Oakland Raiders,12,13,35,3,True,False
+2018,2,17,2018-12-30 21:25:00+00:00,401030850,Los Angeles Rams,San Francisco 49ers,14,25,48,32,True,False
+2018,2,17,2018-12-30 21:25:00+00:00,401030763,Minnesota Vikings,Chicago Bears,16,3,10,24,True,False
+2018,2,17,2018-12-30 21:25:00+00:00,401030818,Pittsburgh Steelers,Cincinnati Bengals,23,4,16,13,True,False
+2018,2,17,2018-12-30 21:25:00+00:00,401030856,Seattle Seahawks,Arizona Cardinals,26,22,27,24,True,False
+2018,2,17,2018-12-30 21:25:00+00:00,401030727,Washington Redskins,Philadelphia Eagles,28,21,0,24,True,False
+2018,2,17,2018-12-30 21:25:00+00:00,401030719,Baltimore Ravens,Cleveland Browns,33,5,26,24,True,False
+2018,2,17,2018-12-31 01:20:00+00:00,401030755,Tennessee Titans,Indianapolis Colts,10,11,17,33,True,False

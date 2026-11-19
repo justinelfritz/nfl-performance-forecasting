@@ -1,0 +1,273 @@
+Season,SeasonType,Week,Date,GameID,HomeTeam,AwayTeam,HomeID,AwayID,HomeScore,AwayScore,Completed,NeutralSite
+2026,2,1,2026-09-10 00:20:00+00:00,401872656,Seattle Seahawks,New England Patriots,26,17,13,10,True,False
+2026,2,1,2026-09-11 00:35:00+00:00,401872657,Los Angeles Rams,San Francisco 49ers,14,25,7,27,True,True
+2026,2,1,2026-09-13 17:00:00+00:00,401872925,Cincinnati Bengals,Tampa Bay Buccaneers,4,27,33,27,True,False
+2026,2,1,2026-09-13 17:00:00+00:00,401872923,Detroit Lions,New Orleans Saints,8,18,31,30,True,False
+2026,2,1,2026-09-13 17:00:00+00:00,401872924,Tennessee Titans,New York Jets,10,20,10,23,True,False
+2026,2,1,2026-09-13 17:00:00+00:00,401872659,Indianapolis Colts,Baltimore Ravens,11,33,23,41,True,False
+2026,2,1,2026-09-13 17:00:00+00:00,401872658,Pittsburgh Steelers,Atlanta Falcons,23,1,20,13,True,False
+2026,2,1,2026-09-13 17:00:00+00:00,401872661,Carolina Panthers,Chicago Bears,29,3,37,59,True,False
+2026,2,1,2026-09-13 17:00:00+00:00,401872922,Jacksonville Jaguars,Cleveland Browns,30,5,34,10,True,False
+2026,2,1,2026-09-13 17:00:00+00:00,401872660,Houston Texans,Buffalo Bills,34,2,31,36,True,False
+2026,2,1,2026-09-13 20:25:00+00:00,401872928,Las Vegas Raiders,Miami Dolphins,13,15,27,13,True,False
+2026,2,1,2026-09-13 20:25:00+00:00,401872927,Minnesota Vikings,Green Bay Packers,16,9,39,22,True,False
+2026,2,1,2026-09-13 20:25:00+00:00,401872929,Philadelphia Eagles,Washington Commanders,21,28,24,22,True,False
+2026,2,1,2026-09-13 20:25:00+00:00,401872926,Los Angeles Chargers,Arizona Cardinals,24,22,14,26,True,False
+2026,2,1,2026-09-14 00:20:00+00:00,401872930,New York Giants,Dallas Cowboys,19,6,28,20,True,False
+2026,2,1,2026-09-15 00:15:00+00:00,401872931,Kansas City Chiefs,Denver Broncos,12,7,31,10,True,False
+2026,2,2,2026-09-18 00:15:00+00:00,401872932,Buffalo Bills,Detroit Lions,2,8,41,31,True,False
+2026,2,2,2026-09-20 17:00:00+00:00,401872933,Atlanta Falcons,Carolina Panthers,1,29,3,34,True,False
+2026,2,2,2026-09-20 17:00:00+00:00,401872937,Chicago Bears,Minnesota Vikings,3,16,3,9,True,False
+2026,2,2,2026-09-20 17:00:00+00:00,401872939,Tennessee Titans,Philadelphia Eagles,10,21,20,24,True,False
+2026,2,2,2026-09-20 17:00:00+00:00,401872946,New England Patriots,Pittsburgh Steelers,17,23,20,3,True,False
+2026,2,2,2026-09-20 17:00:00+00:00,401872936,New York Jets,Green Bay Packers,20,9,17,20,True,False
+2026,2,2,2026-09-20 17:00:00+00:00,401872935,Tampa Bay Buccaneers,Cleveland Browns,27,5,19,23,True,False
+2026,2,2,2026-09-20 17:00:00+00:00,401872938,Baltimore Ravens,New Orleans Saints,33,18,17,24,True,False
+2026,2,2,2026-09-20 17:00:00+00:00,401872934,Houston Texans,Cincinnati Bengals,34,4,6,20,True,False
+2026,2,2,2026-09-20 20:05:00+00:00,401872940,Denver Broncos,Jacksonville Jaguars,7,30,20,13,True,False
+2026,2,2,2026-09-20 20:05:00+00:00,401872941,Los Angeles Chargers,Las Vegas Raiders,24,13,14,26,True,False
+2026,2,2,2026-09-20 20:25:00+00:00,401872944,Dallas Cowboys,Washington Commanders,6,28,37,20,True,False
+2026,2,2,2026-09-20 20:25:00+00:00,401872943,Arizona Cardinals,Seattle Seahawks,22,26,7,31,True,False
+2026,2,2,2026-09-20 20:25:00+00:00,401872942,San Francisco 49ers,Miami Dolphins,25,15,35,13,True,False
+2026,2,2,2026-09-21 00:20:00+00:00,401872945,Kansas City Chiefs,Indianapolis Colts,12,11,33,30,True,False
+2026,2,2,2026-09-22 00:15:00+00:00,401872947,Los Angeles Rams,New York Giants,14,19,28,6,True,False
+2026,2,3,2026-09-25 00:15:00+00:00,401872948,Green Bay Packers,Atlanta Falcons,9,1,14,35,True,False
+2026,2,3,2026-09-27 17:00:00+00:00,401872953,Buffalo Bills,Los Angeles Chargers,2,24,24,16,True,False
+2026,2,3,2026-09-27 17:00:00+00:00,401872949,Cleveland Browns,Carolina Panthers,5,29,21,18,True,False
+2026,2,3,2026-09-27 17:00:00+00:00,401872954,Detroit Lions,New York Jets,8,20,31,24,True,False
+2026,2,3,2026-09-27 17:00:00+00:00,401872951,Indianapolis Colts,Houston Texans,11,34,19,17,True,False
+2026,2,3,2026-09-27 17:00:00+00:00,401872952,Miami Dolphins,Kansas City Chiefs,15,12,10,24,True,False
+2026,2,3,2026-09-27 17:00:00+00:00,401872956,New York Giants,Tennessee Titans,19,10,12,7,True,False
+2026,2,3,2026-09-27 17:00:00+00:00,401872950,Pittsburgh Steelers,Cincinnati Bengals,23,4,30,27,True,False
+2026,2,3,2026-09-27 17:00:00+00:00,401872955,Washington Commanders,Seattle Seahawks,28,26,33,31,True,False
+2026,2,3,2026-09-27 17:00:00+00:00,401872957,Jacksonville Jaguars,New England Patriots,30,17,35,6,True,False
+2026,2,3,2026-09-27 20:05:00+00:00,401872958,San Francisco 49ers,Arizona Cardinals,25,22,36,30,True,False
+2026,2,3,2026-09-27 20:05:00+00:00,401872959,Tampa Bay Buccaneers,Minnesota Vikings,27,16,16,23,True,False
+2026,2,3,2026-09-27 20:25:00+00:00,401872960,Dallas Cowboys,Baltimore Ravens,6,33,31,34,True,True
+2026,2,3,2026-09-27 20:25:00+00:00,401872961,New Orleans Saints,Las Vegas Raiders,18,13,27,35,True,False
+2026,2,3,2026-09-28 00:20:00+00:00,401872962,Denver Broncos,Los Angeles Rams,7,14,30,26,True,False
+2026,2,3,2026-09-29 00:15:00+00:00,401872963,Chicago Bears,Philadelphia Eagles,3,21,27,7,True,False
+2026,2,4,2026-10-02 00:15:00+00:00,401872964,Cleveland Browns,Pittsburgh Steelers,5,23,27,24,True,False
+2026,2,4,2026-10-04 13:30:00+00:00,401872965,Washington Commanders,Indianapolis Colts,28,11,13,30,True,True
+2026,2,4,2026-10-04 17:00:00+00:00,401872971,Buffalo Bills,New England Patriots,2,17,26,29,True,False
+2026,2,4,2026-10-04 17:00:00+00:00,401872972,Chicago Bears,New York Jets,3,20,23,12,True,False
+2026,2,4,2026-10-04 17:00:00+00:00,401872969,Cincinnati Bengals,Jacksonville Jaguars,4,30,17,22,True,False
+2026,2,4,2026-10-04 17:00:00+00:00,401872966,New York Giants,Arizona Cardinals,19,22,36,24,True,False
+2026,2,4,2026-10-04 17:00:00+00:00,401872970,Philadelphia Eagles,Los Angeles Rams,21,14,20,24,True,False
+2026,2,4,2026-10-04 17:00:00+00:00,401872968,Tampa Bay Buccaneers,Green Bay Packers,27,9,14,17,True,False
+2026,2,4,2026-10-04 17:00:00+00:00,401872973,Baltimore Ravens,Tennessee Titans,33,10,24,18,True,False
+2026,2,4,2026-10-04 17:00:00+00:00,401872967,Houston Texans,Dallas Cowboys,34,6,30,34,True,False
+2026,2,4,2026-10-04 20:05:00+00:00,401872974,Minnesota Vikings,Miami Dolphins,16,15,15,10,True,False
+2026,2,4,2026-10-04 20:25:00+00:00,401872976,Las Vegas Raiders,Kansas City Chiefs,13,12,27,30,True,False
+2026,2,4,2026-10-04 20:25:00+00:00,401872975,San Francisco 49ers,Denver Broncos,25,7,24,14,True,False
+2026,2,4,2026-10-04 20:25:00+00:00,401872977,Seattle Seahawks,Los Angeles Chargers,26,24,30,23,True,False
+2026,2,4,2026-10-05 00:20:00+00:00,401872978,Carolina Panthers,Detroit Lions,29,8,32,26,True,False
+2026,2,4,2026-10-06 00:15:00+00:00,401872979,New Orleans Saints,Atlanta Falcons,18,1,24,45,True,False
+2026,2,5,2026-10-09 00:15:00+00:00,401872980,Dallas Cowboys,Tampa Bay Buccaneers,6,27,16,24,True,False
+2026,2,5,2026-10-11 13:30:00+00:00,401872981,Jacksonville Jaguars,Philadelphia Eagles,30,21,19,17,True,True
+2026,2,5,2026-10-11 17:00:00+00:00,401872990,Green Bay Packers,Chicago Bears,9,3,31,7,True,False
+2026,2,5,2026-10-11 17:00:00+00:00,401872984,Tennessee Titans,Houston Texans,10,34,3,26,True,False
+2026,2,5,2026-10-11 17:00:00+00:00,401872982,Miami Dolphins,Cincinnati Bengals,15,4,24,31,True,False
+2026,2,5,2026-10-11 17:00:00+00:00,401872986,New England Patriots,Las Vegas Raiders,17,13,45,17,True,False
+2026,2,5,2026-10-11 17:00:00+00:00,401872987,New Orleans Saints,Minnesota Vikings,18,16,13,23,True,False
+2026,2,5,2026-10-11 17:00:00+00:00,401872983,New York Jets,Cleveland Browns,20,5,17,12,True,False
+2026,2,5,2026-10-11 17:00:00+00:00,401872985,Pittsburgh Steelers,Indianapolis Colts,23,11,34,22,True,False
+2026,2,5,2026-10-11 17:00:00+00:00,401872988,Washington Commanders,New York Giants,28,19,27,27,True,False
+2026,2,5,2026-10-11 20:05:00+00:00,401872989,Los Angeles Chargers,Denver Broncos,24,7,17,23,True,False
+2026,2,5,2026-10-11 20:25:00+00:00,401872991,Arizona Cardinals,Detroit Lions,22,8,21,45,True,False
+2026,2,5,2026-10-11 20:25:00+00:00,401872992,Seattle Seahawks,San Francisco 49ers,26,25,29,32,True,False
+2026,2,5,2026-10-12 00:20:00+00:00,401872993,Atlanta Falcons,Baltimore Ravens,1,33,23,30,True,False
+2026,2,5,2026-10-13 00:15:00+00:00,401872994,Los Angeles Rams,Buffalo Bills,14,2,34,37,True,False
+2026,2,6,2026-10-16 00:15:00+00:00,401872995,Denver Broncos,Seattle Seahawks,7,26,17,14,True,False
+2026,2,6,2026-10-18 13:30:00+00:00,401872996,Jacksonville Jaguars,Houston Texans,30,34,31,34,True,True
+2026,2,6,2026-10-18 17:00:00+00:00,401872999,Atlanta Falcons,Chicago Bears,1,3,23,31,True,False
+2026,2,6,2026-10-18 17:00:00+00:00,401872997,Cleveland Browns,Baltimore Ravens,5,33,13,10,True,False
+2026,2,6,2026-10-18 17:00:00+00:00,401873003,Indianapolis Colts,Tennessee Titans,11,10,20,26,True,False
+2026,2,6,2026-10-18 17:00:00+00:00,401873001,New England Patriots,New York Jets,17,20,26,19,True,False
+2026,2,6,2026-10-18 17:00:00+00:00,401873000,New York Giants,New Orleans Saints,19,18,27,34,True,False
+2026,2,6,2026-10-18 17:00:00+00:00,401872998,Philadelphia Eagles,Carolina Panthers,21,29,14,25,True,False
+2026,2,6,2026-10-18 17:00:00+00:00,401873002,Tampa Bay Buccaneers,Pittsburgh Steelers,27,23,19,26,True,False
+2026,2,6,2026-10-18 20:05:00+00:00,401873004,Los Angeles Rams,Arizona Cardinals,14,22,16,18,True,False
+2026,2,6,2026-10-18 20:25:00+00:00,401873006,Kansas City Chiefs,Los Angeles Chargers,12,24,22,6,True,False
+2026,2,6,2026-10-18 20:25:00+00:00,401873005,Las Vegas Raiders,Buffalo Bills,13,2,30,33,True,False
+2026,2,6,2026-10-19 00:20:00+00:00,401873007,Green Bay Packers,Dallas Cowboys,9,6,23,13,True,False
+2026,2,6,2026-10-20 00:15:00+00:00,401873008,San Francisco 49ers,Washington Commanders,25,28,23,17,True,False
+2026,2,7,2026-10-23 00:15:00+00:00,401873010,Chicago Bears,New England Patriots,3,17,30,24,True,False
+2026,2,7,2026-10-25 13:30:00+00:00,401873011,New Orleans Saints,Pittsburgh Steelers,18,23,10,16,True,True
+2026,2,7,2026-10-25 17:00:00+00:00,401873017,Atlanta Falcons,San Francisco 49ers,1,25,29,20,True,False
+2026,2,7,2026-10-25 17:00:00+00:00,401873013,Tennessee Titans,Cleveland Browns,10,5,24,27,True,False
+2026,2,7,2026-10-25 17:00:00+00:00,401873014,Minnesota Vikings,Indianapolis Colts,16,11,16,10,True,False
+2026,2,7,2026-10-25 17:00:00+00:00,401873015,New York Jets,Miami Dolphins,20,15,25,28,True,False
+2026,2,7,2026-10-25 17:00:00+00:00,401873018,Carolina Panthers,Tampa Bay Buccaneers,29,27,13,43,True,False
+2026,2,7,2026-10-25 17:00:00+00:00,401873012,Baltimore Ravens,Cincinnati Bengals,33,4,13,35,True,False
+2026,2,7,2026-10-25 17:00:00+00:00,401873016,Houston Texans,New York Giants,34,19,21,27,True,False
+2026,2,7,2026-10-25 20:05:00+00:00,401873019,Arizona Cardinals,Denver Broncos,22,7,16,30,True,False
+2026,2,7,2026-10-25 20:25:00+00:00,401873020,Detroit Lions,Green Bay Packers,8,9,20,17,True,False
+2026,2,7,2026-10-25 20:25:00+00:00,401873021,Las Vegas Raiders,Los Angeles Rams,13,14,21,35,True,False
+2026,2,7,2026-10-26 00:20:00+00:00,401873022,Seattle Seahawks,Kansas City Chiefs,26,12,20,3,True,False
+2026,2,7,2026-10-27 00:15:00+00:00,401873009,Philadelphia Eagles,Dallas Cowboys,21,6,21,38,True,False
+2026,2,8,2026-10-30 00:15:00+00:00,401873023,Green Bay Packers,Carolina Panthers,9,29,27,19,True,False
+2026,2,8,2026-11-01 18:00:00+00:00,401873026,Buffalo Bills,Baltimore Ravens,2,33,36,10,True,False
+2026,2,8,2026-11-01 18:00:00+00:00,401873031,Cincinnati Bengals,Tennessee Titans,4,10,43,36,True,False
+2026,2,8,2026-11-01 18:00:00+00:00,401873024,Dallas Cowboys,Arizona Cardinals,6,22,30,33,True,False
+2026,2,8,2026-11-01 18:00:00+00:00,401873030,Detroit Lions,Minnesota Vikings,8,16,19,15,True,False
+2026,2,8,2026-11-01 18:00:00+00:00,401873029,New York Jets,Las Vegas Raiders,20,13,33,38,True,False
+2026,2,8,2026-11-01 18:00:00+00:00,401873027,Pittsburgh Steelers,Cleveland Browns,23,5,27,6,True,False
+2026,2,8,2026-11-01 18:00:00+00:00,401873025,Tampa Bay Buccaneers,Atlanta Falcons,27,1,16,0,True,False
+2026,2,8,2026-11-01 18:00:00+00:00,401873028,Jacksonville Jaguars,Indianapolis Colts,30,11,42,7,True,False
+2026,2,8,2026-11-01 21:05:00+00:00,401873032,Los Angeles Rams,Los Angeles Chargers,14,24,24,9,True,False
+2026,2,8,2026-11-01 21:25:00+00:00,401873033,Denver Broncos,Kansas City Chiefs,7,12,28,24,True,False
+2026,2,8,2026-11-01 21:25:00+00:00,401873034,Miami Dolphins,New England Patriots,15,17,19,24,True,False
+2026,2,8,2026-11-02 01:20:00+00:00,401873035,Washington Commanders,Philadelphia Eagles,28,21,27,10,True,False
+2026,2,8,2026-11-03 01:15:00+00:00,401873036,Seattle Seahawks,Chicago Bears,26,3,17,34,True,False
+2026,2,9,2026-11-06 01:15:00+00:00,401873037,Baltimore Ravens,Jacksonville Jaguars,33,30,10,33,True,False
+2026,2,9,2026-11-08 14:30:00+00:00,401873038,Atlanta Falcons,Cincinnati Bengals,1,4,17,34,True,True
+2026,2,9,2026-11-08 18:00:00+00:00,401873040,Indianapolis Colts,Dallas Cowboys,11,6,23,27,True,False
+2026,2,9,2026-11-08 18:00:00+00:00,401873045,Kansas City Chiefs,New York Jets,12,20,35,12,True,False
+2026,2,9,2026-11-08 18:00:00+00:00,401873042,Miami Dolphins,Detroit Lions,15,8,9,19,True,False
+2026,2,9,2026-11-08 18:00:00+00:00,401873039,New Orleans Saints,Cleveland Browns,18,5,23,22,True,False
+2026,2,9,2026-11-08 18:00:00+00:00,401873044,Philadelphia Eagles,New York Giants,21,19,11,19,True,False
+2026,2,9,2026-11-08 18:00:00+00:00,401873043,Washington Commanders,Los Angeles Rams,28,14,13,20,True,False
+2026,2,9,2026-11-08 18:00:00+00:00,401873041,Carolina Panthers,Denver Broncos,29,7,21,26,True,False
+2026,2,9,2026-11-08 21:05:00+00:00,401873046,Los Angeles Chargers,Houston Texans,24,34,22,44,True,False
+2026,2,9,2026-11-08 21:25:00+00:00,401873049,New England Patriots,Green Bay Packers,17,9,27,45,True,False
+2026,2,9,2026-11-08 21:25:00+00:00,401873047,San Francisco 49ers,Las Vegas Raiders,25,13,38,17,True,False
+2026,2,9,2026-11-08 21:25:00+00:00,401873048,Seattle Seahawks,Arizona Cardinals,26,22,17,3,True,False
+2026,2,9,2026-11-09 01:20:00+00:00,401873050,Chicago Bears,Tampa Bay Buccaneers,3,27,27,24,True,False
+2026,2,9,2026-11-10 01:15:00+00:00,401873051,Minnesota Vikings,Buffalo Bills,16,2,6,23,True,False
+2026,2,10,2026-11-13 01:15:00+00:00,401873052,New York Giants,Washington Commanders,19,28,21,24,True,False
+2026,2,10,2026-11-15 14:30:00+00:00,401873053,Detroit Lions,New England Patriots,8,17,35,10,True,True
+2026,2,10,2026-11-15 18:00:00+00:00,401873058,Atlanta Falcons,Kansas City Chiefs,1,12,13,35,True,False
+2026,2,10,2026-11-15 18:00:00+00:00,401873056,Cleveland Browns,Houston Texans,5,34,27,24,True,False
+2026,2,10,2026-11-15 18:00:00+00:00,401873060,Green Bay Packers,Minnesota Vikings,9,16,10,30,True,False
+2026,2,10,2026-11-15 18:00:00+00:00,401873057,Tennessee Titans,Jacksonville Jaguars,10,30,23,40,True,False
+2026,2,10,2026-11-15 18:00:00+00:00,401873059,Indianapolis Colts,Miami Dolphins,11,15,24,22,True,False
+2026,2,10,2026-11-15 18:00:00+00:00,401873055,New Orleans Saints,Carolina Panthers,18,29,17,20,True,False
+2026,2,10,2026-11-15 18:00:00+00:00,401873054,New York Jets,Buffalo Bills,20,2,12,31,True,False
+2026,2,10,2026-11-15 21:05:00+00:00,401873062,Las Vegas Raiders,Seattle Seahawks,13,26,13,21,True,False
+2026,2,10,2026-11-15 21:05:00+00:00,401873061,Arizona Cardinals,Los Angeles Rams,22,14,6,34,True,False
+2026,2,10,2026-11-15 21:25:00+00:00,401873063,Dallas Cowboys,San Francisco 49ers,6,25,40,46,True,False
+2026,2,10,2026-11-16 01:20:00+00:00,401873064,Cincinnati Bengals,Pittsburgh Steelers,4,23,38,18,True,False
+2026,2,10,2026-11-17 01:15:00+00:00,401873065,Baltimore Ravens,Los Angeles Chargers,33,24,20,23,True,False
+2026,2,11,2026-11-20 01:15:00+00:00,401873066,Houston Texans,Indianapolis Colts,34,11,,,False,False
+2026,2,11,2026-11-22 18:00:00+00:00,401873070,Buffalo Bills,Miami Dolphins,2,15,,,False,False
+2026,2,11,2026-11-22 18:00:00+00:00,401873071,Chicago Bears,New Orleans Saints,3,18,,,False,False
+2026,2,11,2026-11-22 18:00:00+00:00,401873073,Dallas Cowboys,Tennessee Titans,6,10,,,False,False
+2026,2,11,2026-11-22 18:00:00+00:00,401873072,Detroit Lions,Tampa Bay Buccaneers,8,27,,,False,False
+2026,2,11,2026-11-22 18:00:00+00:00,401873067,Kansas City Chiefs,Arizona Cardinals,12,22,,,False,False
+2026,2,11,2026-11-22 18:00:00+00:00,401873076,Philadelphia Eagles,Pittsburgh Steelers,21,23,,,False,False
+2026,2,11,2026-11-22 18:00:00+00:00,401873068,Carolina Panthers,Baltimore Ravens,29,33,,,False,False
+2026,2,11,2026-11-22 21:05:00+00:00,401873074,Los Angeles Chargers,New York Jets,24,20,,,False,False
+2026,2,11,2026-11-22 21:25:00+00:00,401873075,Denver Broncos,Las Vegas Raiders,7,13,,,False,False
+2026,2,11,2026-11-22 21:25:00+00:00,401873069,New York Giants,Jacksonville Jaguars,19,30,,,False,False
+2026,2,11,2026-11-23 01:20:00+00:00,401873077,San Francisco 49ers,Minnesota Vikings,25,16,,,False,True
+2026,2,11,2026-11-24 01:15:00+00:00,401873078,Washington Commanders,Cincinnati Bengals,28,4,,,False,False
+2026,2,12,2026-11-26 01:00:00+00:00,401873079,Los Angeles Rams,Green Bay Packers,14,9,,,False,False
+2026,2,12,2026-11-26 18:00:00+00:00,401873081,Detroit Lions,Chicago Bears,8,3,,,False,False
+2026,2,12,2026-11-26 21:30:00+00:00,401873080,Dallas Cowboys,Philadelphia Eagles,6,21,,,False,False
+2026,2,12,2026-11-27 01:20:00+00:00,401873082,Buffalo Bills,Kansas City Chiefs,2,12,,,False,False
+2026,2,12,2026-11-27 20:00:00+00:00,401873083,Pittsburgh Steelers,Denver Broncos,23,7,,,False,False
+2026,2,12,2026-11-29 18:00:00+00:00,401873087,Cincinnati Bengals,New Orleans Saints,4,18,,,False,False
+2026,2,12,2026-11-29 18:00:00+00:00,401873088,Indianapolis Colts,New York Giants,11,19,,,False,False
+2026,2,12,2026-11-29 18:00:00+00:00,401873089,Miami Dolphins,New York Jets,15,20,,,False,False
+2026,2,12,2026-11-29 18:00:00+00:00,401873084,Minnesota Vikings,Atlanta Falcons,16,1,,,False,False
+2026,2,12,2026-11-29 18:00:00+00:00,401873090,Jacksonville Jaguars,Tennessee Titans,30,10,,,False,False
+2026,2,12,2026-11-29 18:00:00+00:00,401873085,Houston Texans,Baltimore Ravens,34,33,,,False,False
+2026,2,12,2026-11-29 21:05:00+00:00,401873093,Los Angeles Chargers,New England Patriots,24,17,,,False,False
+2026,2,12,2026-11-29 21:25:00+00:00,401873092,Arizona Cardinals,Washington Commanders,22,28,,,False,False
+2026,2,12,2026-11-29 21:25:00+00:00,401873091,San Francisco 49ers,Seattle Seahawks,25,26,,,False,False
+2026,2,12,2026-11-30 01:20:00+00:00,401873086,Cleveland Browns,Las Vegas Raiders,5,13,,,False,False
+2026,2,12,2026-12-01 01:15:00+00:00,401873094,Tampa Bay Buccaneers,Carolina Panthers,27,29,,,False,False
+2026,2,13,2026-12-04 01:15:00+00:00,401873096,Los Angeles Rams,Kansas City Chiefs,14,12,,,False,False
+2026,2,13,2026-12-06 18:00:00+00:00,401873098,Atlanta Falcons,Detroit Lions,1,8,,,False,False
+2026,2,13,2026-12-06 18:00:00+00:00,401873100,Chicago Bears,Jacksonville Jaguars,3,30,,,False,False
+2026,2,13,2026-12-06 18:00:00+00:00,401873097,Cleveland Browns,Cincinnati Bengals,5,4,,,False,False
+2026,2,13,2026-12-06 18:00:00+00:00,401873102,Tennessee Titans,Washington Commanders,10,28,,,False,False
+2026,2,13,2026-12-06 18:00:00+00:00,401873099,New Orleans Saints,Green Bay Packers,18,9,,,False,False
+2026,2,13,2026-12-06 18:00:00+00:00,401873095,New York Giants,San Francisco 49ers,19,25,,,False,False
+2026,2,13,2026-12-06 18:00:00+00:00,401873101,Tampa Bay Buccaneers,Los Angeles Chargers,27,24,,,False,False
+2026,2,13,2026-12-06 21:05:00+00:00,401873103,Denver Broncos,Miami Dolphins,7,15,,,False,False
+2026,2,13,2026-12-06 21:05:00+00:00,401873104,Arizona Cardinals,Philadelphia Eagles,22,21,,,False,False
+2026,2,13,2026-12-06 21:25:00+00:00,401873106,Minnesota Vikings,Carolina Panthers,16,29,,,False,False
+2026,2,13,2026-12-06 21:25:00+00:00,401873105,New England Patriots,Buffalo Bills,17,2,,,False,False
+2026,2,13,2026-12-07 01:20:00+00:00,401873107,Pittsburgh Steelers,Houston Texans,23,34,,,False,False
+2026,2,13,2026-12-08 01:15:00+00:00,401873108,Seattle Seahawks,Dallas Cowboys,26,6,,,False,False
+2026,2,14,2026-12-11 01:15:00+00:00,401873109,New England Patriots,Minnesota Vikings,17,16,,,False,False
+2026,2,14,2026-12-13 18:00:00+00:00,401873110,Cleveland Browns,Atlanta Falcons,5,1,,,False,False
+2026,2,14,2026-12-13 18:00:00+00:00,401873117,Detroit Lions,Tennessee Titans,8,10,,,False,False
+2026,2,14,2026-12-13 18:00:00+00:00,401873111,Miami Dolphins,Chicago Bears,15,3,,,False,False
+2026,2,14,2026-12-13 18:00:00+00:00,401873112,New York Jets,Denver Broncos,20,7,,,False,False
+2026,2,14,2026-12-13 18:00:00+00:00,401873114,Philadelphia Eagles,Indianapolis Colts,21,11,,,False,False
+2026,2,14,2026-12-13 18:00:00+00:00,401873113,Washington Commanders,Houston Texans,28,34,,,False,False
+2026,2,14,2026-12-13 18:00:00+00:00,401873115,Carolina Panthers,New Orleans Saints,29,18,,,False,False
+2026,2,14,2026-12-13 18:00:00+00:00,401873116,Baltimore Ravens,Tampa Bay Buccaneers,33,27,,,False,False
+2026,2,14,2026-12-13 21:05:00+00:00,401873118,Las Vegas Raiders,Los Angeles Chargers,13,24,,,False,False
+2026,2,14,2026-12-13 21:25:00+00:00,401873119,Cincinnati Bengals,Kansas City Chiefs,4,12,,,False,False
+2026,2,14,2026-12-13 21:25:00+00:00,401873120,San Francisco 49ers,Los Angeles Rams,25,14,,,False,False
+2026,2,14,2026-12-13 21:25:00+00:00,401873121,Seattle Seahawks,New York Giants,26,19,,,False,False
+2026,2,14,2026-12-14 01:20:00+00:00,401873122,Green Bay Packers,Buffalo Bills,9,2,,,False,False
+2026,2,14,2026-12-15 01:15:00+00:00,401873123,Jacksonville Jaguars,Pittsburgh Steelers,30,23,,,False,False
+2026,2,15,2026-12-18 01:15:00+00:00,401873124,Los Angeles Chargers,San Francisco 49ers,24,25,,,False,False
+2026,2,15,2026-12-19 22:00:00+00:00,401873125,Philadelphia Eagles,Seattle Seahawks,21,26,,,False,False
+2026,2,15,2026-12-20 01:20:00+00:00,401873126,Buffalo Bills,Chicago Bears,2,3,,,False,False
+2026,2,15,2026-12-20 18:00:00+00:00,401873133,Green Bay Packers,Miami Dolphins,9,15,,,False,False
+2026,2,15,2026-12-20 18:00:00+00:00,401873131,Tennessee Titans,Indianapolis Colts,10,11,,,False,False
+2026,2,15,2026-12-20 18:00:00+00:00,401873130,New York Giants,Cleveland Browns,19,5,,,False,False
+2026,2,15,2026-12-20 18:00:00+00:00,401873128,Pittsburgh Steelers,Baltimore Ravens,23,33,,,False,False
+2026,2,15,2026-12-20 18:00:00+00:00,401873134,Tampa Bay Buccaneers,New Orleans Saints,27,18,,,False,False
+2026,2,15,2026-12-20 18:00:00+00:00,401873127,Washington Commanders,Atlanta Falcons,28,1,,,False,False
+2026,2,15,2026-12-20 18:00:00+00:00,401873129,Carolina Panthers,Cincinnati Bengals,29,4,,,False,False
+2026,2,15,2026-12-20 18:00:00+00:00,401873132,Houston Texans,Jacksonville Jaguars,34,30,,,False,False
+2026,2,15,2026-12-20 21:05:00+00:00,401873135,Arizona Cardinals,New York Jets,22,20,,,False,False
+2026,2,15,2026-12-20 21:25:00+00:00,401873137,Las Vegas Raiders,Denver Broncos,13,7,,,False,False
+2026,2,15,2026-12-20 21:25:00+00:00,401873136,Los Angeles Rams,Dallas Cowboys,14,6,,,False,False
+2026,2,15,2026-12-21 01:20:00+00:00,401873138,Minnesota Vikings,Detroit Lions,16,8,,,False,False
+2026,2,15,2026-12-22 01:15:00+00:00,401873139,Kansas City Chiefs,New England Patriots,12,17,,,False,False
+2026,2,16,2026-12-25 01:15:00+00:00,401873140,Philadelphia Eagles,Houston Texans,21,34,,,False,False
+2026,2,16,2026-12-25 18:00:00+00:00,401873141,Chicago Bears,Green Bay Packers,3,9,,,False,False
+2026,2,16,2026-12-25 21:30:00+00:00,401873142,Denver Broncos,Buffalo Bills,7,2,,,False,False
+2026,2,16,2026-12-26 01:15:00+00:00,401873143,Seattle Seahawks,Los Angeles Rams,26,14,,,False,False
+2026,2,16,2026-12-27 05:00:00+00:00,401873146,Atlanta Falcons,Tampa Bay Buccaneers,1,27,,,False,False
+2026,2,16,2026-12-27 05:00:00+00:00,401873145,Indianapolis Colts,Cincinnati Bengals,11,4,,,False,False
+2026,2,16,2026-12-27 05:00:00+00:00,401873147,Minnesota Vikings,Washington Commanders,16,28,,,False,False
+2026,2,16,2026-12-27 05:00:00+00:00,401873144,Pittsburgh Steelers,Carolina Panthers,23,29,,,False,False
+2026,2,16,2026-12-27 18:00:00+00:00,401873150,Miami Dolphins,Los Angeles Chargers,15,24,,,False,False
+2026,2,16,2026-12-27 18:00:00+00:00,401873148,New Orleans Saints,Arizona Cardinals,18,22,,,False,False
+2026,2,16,2026-12-27 18:00:00+00:00,401873151,New York Jets,New England Patriots,20,17,,,False,False
+2026,2,16,2026-12-27 18:00:00+00:00,401873149,Baltimore Ravens,Cleveland Browns,33,5,,,False,False
+2026,2,16,2026-12-27 21:05:00+00:00,401873152,Las Vegas Raiders,Tennessee Titans,13,10,,,False,False
+2026,2,16,2026-12-27 21:25:00+00:00,401873153,Kansas City Chiefs,San Francisco 49ers,12,25,,,False,False
+2026,2,16,2026-12-28 01:20:00+00:00,401873154,Dallas Cowboys,Jacksonville Jaguars,6,30,,,False,False
+2026,2,16,2026-12-29 01:15:00+00:00,401873155,Detroit Lions,New York Giants,8,19,,,False,False
+2026,2,17,2027-01-01 01:15:00+00:00,401873156,Cincinnati Bengals,Baltimore Ravens,4,33,,,False,False
+2026,2,17,2027-01-03 05:00:00+00:00,401873157,New England Patriots,Denver Broncos,17,7,,,False,False
+2026,2,17,2027-01-03 05:00:00+00:00,401873158,Los Angeles Chargers,Kansas City Chiefs,24,12,,,False,False
+2026,2,17,2027-01-03 05:00:00+00:00,401873159,Tampa Bay Buccaneers,Los Angeles Rams,27,14,,,False,False
+2026,2,17,2027-01-03 05:00:00+00:00,401873160,Jacksonville Jaguars,Washington Commanders,30,28,,,False,False
+2026,2,17,2027-01-03 18:00:00+00:00,401873164,Atlanta Falcons,New Orleans Saints,1,18,,,False,False
+2026,2,17,2027-01-03 18:00:00+00:00,401873162,Cleveland Browns,Indianapolis Colts,5,11,,,False,False
+2026,2,17,2027-01-03 18:00:00+00:00,401873165,Dallas Cowboys,New York Giants,6,19,,,False,False
+2026,2,17,2027-01-03 18:00:00+00:00,401873166,Tennessee Titans,Pittsburgh Steelers,10,23,,,False,False
+2026,2,17,2027-01-03 18:00:00+00:00,401873161,Miami Dolphins,Buffalo Bills,15,2,,,False,False
+2026,2,17,2027-01-03 18:00:00+00:00,401873163,New York Jets,Minnesota Vikings,20,16,,,False,False
+2026,2,17,2027-01-03 18:00:00+00:00,401873167,Carolina Panthers,Seattle Seahawks,29,26,,,False,False
+2026,2,17,2027-01-03 21:05:00+00:00,401873168,Arizona Cardinals,Las Vegas Raiders,22,13,,,False,False
+2026,2,17,2027-01-03 21:25:00+00:00,401873169,Chicago Bears,Detroit Lions,3,8,,,False,False
+2026,2,17,2027-01-04 01:20:00+00:00,401873170,San Francisco 49ers,Philadelphia Eagles,25,21,,,False,False
+2026,2,17,2027-01-05 01:15:00+00:00,401873171,Green Bay Packers,Houston Texans,9,34,,,False,False
+2026,2,18,2027-01-10 05:00:00+00:00,401873181,Buffalo Bills,New York Jets,2,20,,,False,False
+2026,2,18,2027-01-10 05:00:00+00:00,401873174,Cincinnati Bengals,Cleveland Browns,4,5,,,False,False
+2026,2,18,2027-01-10 05:00:00+00:00,401873179,Denver Broncos,Los Angeles Chargers,7,24,,,False,False
+2026,2,18,2027-01-10 05:00:00+00:00,401873176,Green Bay Packers,Detroit Lions,9,8,,,False,False
+2026,2,18,2027-01-10 05:00:00+00:00,401873177,Indianapolis Colts,Jacksonville Jaguars,11,30,,,False,False
+2026,2,18,2027-01-10 05:00:00+00:00,401873178,Kansas City Chiefs,Las Vegas Raiders,12,13,,,False,False
+2026,2,18,2027-01-10 05:00:00+00:00,401873185,Los Angeles Rams,Seattle Seahawks,14,26,,,False,False
+2026,2,18,2027-01-10 05:00:00+00:00,401873173,Minnesota Vikings,Chicago Bears,16,3,,,False,False
+2026,2,18,2027-01-10 05:00:00+00:00,401873180,New England Patriots,Miami Dolphins,17,15,,,False,False
+2026,2,18,2027-01-10 05:00:00+00:00,401873186,New Orleans Saints,Tampa Bay Buccaneers,18,27,,,False,False
+2026,2,18,2027-01-10 05:00:00+00:00,401873182,New York Giants,Philadelphia Eagles,19,21,,,False,False
+2026,2,18,2027-01-10 05:00:00+00:00,401873184,Arizona Cardinals,San Francisco 49ers,22,25,,,False,False
+2026,2,18,2027-01-10 05:00:00+00:00,401873175,Washington Commanders,Dallas Cowboys,28,6,,,False,False
+2026,2,18,2027-01-10 05:00:00+00:00,401873172,Carolina Panthers,Atlanta Falcons,29,1,,,False,False
+2026,2,18,2027-01-10 05:00:00+00:00,401873183,Baltimore Ravens,Pittsburgh Steelers,33,23,,,False,False
+2026,2,18,2027-01-10 05:00:00+00:00,401873187,Houston Texans,Tennessee Titans,34,10,,,False,False

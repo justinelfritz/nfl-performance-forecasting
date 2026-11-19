@@ -1,0 +1,257 @@
+Season,SeasonType,Week,Date,GameID,HomeTeam,AwayTeam,HomeID,AwayID,HomeScore,AwayScore,Completed,NeutralSite
+2013,2,1,2013-09-06 00:30:00+00:00,330905007,Denver Broncos,Baltimore Ravens,7,33,49,27,True,False
+2013,2,1,2013-09-08 17:00:00+00:00,330908002,Buffalo Bills,New England Patriots,2,17,21,23,True,False
+2013,2,1,2013-09-08 17:00:00+00:00,330908003,Chicago Bears,Cincinnati Bengals,3,4,24,21,True,False
+2013,2,1,2013-09-08 17:00:00+00:00,330908005,Cleveland Browns,Miami Dolphins,5,15,10,23,True,False
+2013,2,1,2013-09-08 17:00:00+00:00,330908008,Detroit Lions,Minnesota Vikings,8,16,34,24,True,False
+2013,2,1,2013-09-08 17:00:00+00:00,330908011,Indianapolis Colts,Oakland Raiders,11,13,21,17,True,False
+2013,2,1,2013-09-08 17:00:00+00:00,330908018,New Orleans Saints,Atlanta Falcons,18,1,23,17,True,False
+2013,2,1,2013-09-08 17:00:00+00:00,330908020,New York Jets,Tampa Bay Buccaneers,20,27,18,17,True,False
+2013,2,1,2013-09-08 17:00:00+00:00,330908023,Pittsburgh Steelers,Tennessee Titans,23,10,9,16,True,False
+2013,2,1,2013-09-08 17:00:00+00:00,330908029,Carolina Panthers,Seattle Seahawks,29,26,7,12,True,False
+2013,2,1,2013-09-08 17:00:00+00:00,330908030,Jacksonville Jaguars,Kansas City Chiefs,30,12,2,28,True,False
+2013,2,1,2013-09-08 20:25:00+00:00,330908014,St. Louis Rams,Arizona Cardinals,14,22,27,24,True,False
+2013,2,1,2013-09-08 20:25:00+00:00,330908025,San Francisco 49ers,Green Bay Packers,25,9,34,28,True,False
+2013,2,1,2013-09-09 00:30:00+00:00,330908006,Dallas Cowboys,New York Giants,6,19,36,31,True,False
+2013,2,1,2013-09-09 22:55:00+00:00,330909028,Washington Redskins,Philadelphia Eagles,28,21,27,33,True,False
+2013,2,1,2013-09-10 02:25:00+00:00,330909024,San Diego Chargers,Houston Texans,24,34,28,31,True,False
+2013,2,2,2013-09-13 00:25:00+00:00,330912017,New England Patriots,New York Jets,17,20,13,10,True,False
+2013,2,2,2013-09-15 17:00:00+00:00,330915001,Atlanta Falcons,St. Louis Rams,1,14,31,24,True,False
+2013,2,2,2013-09-15 17:00:00+00:00,330915002,Buffalo Bills,Carolina Panthers,2,29,24,23,True,False
+2013,2,2,2013-09-15 17:00:00+00:00,330915003,Chicago Bears,Minnesota Vikings,3,16,31,30,True,False
+2013,2,2,2013-09-15 17:00:00+00:00,330915009,Green Bay Packers,Washington Redskins,9,28,38,20,True,False
+2013,2,2,2013-09-15 17:00:00+00:00,330915011,Indianapolis Colts,Miami Dolphins,11,15,20,24,True,False
+2013,2,2,2013-09-15 17:00:00+00:00,330915012,Kansas City Chiefs,Dallas Cowboys,12,6,17,16,True,False
+2013,2,2,2013-09-15 17:00:00+00:00,330915021,Philadelphia Eagles,San Diego Chargers,21,24,30,33,True,False
+2013,2,2,2013-09-15 17:00:00+00:00,330915033,Baltimore Ravens,Cleveland Browns,33,5,14,6,True,False
+2013,2,2,2013-09-15 17:00:00+00:00,330915034,Houston Texans,Tennessee Titans,34,10,30,24,True,False
+2013,2,2,2013-09-15 20:05:00+00:00,330915022,Arizona Cardinals,Detroit Lions,22,8,25,21,True,False
+2013,2,2,2013-09-15 20:05:00+00:00,330915027,Tampa Bay Buccaneers,New Orleans Saints,27,18,14,16,True,False
+2013,2,2,2013-09-15 20:25:00+00:00,330915013,Oakland Raiders,Jacksonville Jaguars,13,30,19,9,True,False
+2013,2,2,2013-09-15 20:25:00+00:00,330915019,New York Giants,Denver Broncos,19,7,23,41,True,False
+2013,2,2,2013-09-16 00:30:00+00:00,330915026,Seattle Seahawks,San Francisco 49ers,26,25,29,3,True,False
+2013,2,2,2013-09-17 00:30:00+00:00,330916004,Cincinnati Bengals,Pittsburgh Steelers,4,23,20,10,True,False
+2013,2,3,2013-09-20 00:25:00+00:00,330919021,Philadelphia Eagles,Kansas City Chiefs,21,12,16,26,True,False
+2013,2,3,2013-09-22 17:00:00+00:00,330922004,Cincinnati Bengals,Green Bay Packers,4,9,34,30,True,False
+2013,2,3,2013-09-22 17:00:00+00:00,330922006,Dallas Cowboys,St. Louis Rams,6,14,31,7,True,False
+2013,2,3,2013-09-22 17:00:00+00:00,330922010,Tennessee Titans,San Diego Chargers,10,24,20,17,True,False
+2013,2,3,2013-09-22 17:00:00+00:00,330922016,Minnesota Vikings,Cleveland Browns,16,5,27,31,True,False
+2013,2,3,2013-09-22 17:00:00+00:00,330922017,New England Patriots,Tampa Bay Buccaneers,17,27,23,3,True,False
+2013,2,3,2013-09-22 17:00:00+00:00,330922018,New Orleans Saints,Arizona Cardinals,18,22,31,7,True,False
+2013,2,3,2013-09-22 17:00:00+00:00,330922028,Washington Redskins,Detroit Lions,28,8,20,27,True,False
+2013,2,3,2013-09-22 17:00:00+00:00,330922029,Carolina Panthers,New York Giants,29,19,38,0,True,False
+2013,2,3,2013-09-22 17:00:00+00:00,330922033,Baltimore Ravens,Houston Texans,33,34,30,9,True,False
+2013,2,3,2013-09-22 20:05:00+00:00,330922015,Miami Dolphins,Atlanta Falcons,15,1,27,23,True,False
+2013,2,3,2013-09-22 20:25:00+00:00,330922020,New York Jets,Buffalo Bills,20,2,27,20,True,False
+2013,2,3,2013-09-22 20:25:00+00:00,330922025,San Francisco 49ers,Indianapolis Colts,25,11,7,27,True,False
+2013,2,3,2013-09-22 20:25:00+00:00,330922026,Seattle Seahawks,Jacksonville Jaguars,26,30,45,17,True,False
+2013,2,3,2013-09-23 00:30:00+00:00,330922023,Pittsburgh Steelers,Chicago Bears,23,3,23,40,True,False
+2013,2,3,2013-09-24 00:30:00+00:00,330923007,Denver Broncos,Oakland Raiders,7,13,37,21,True,False
+2013,2,4,2013-09-27 00:25:00+00:00,330926014,St. Louis Rams,San Francisco 49ers,14,25,11,35,True,False
+2013,2,4,2013-09-29 17:00:00+00:00,330929002,Buffalo Bills,Baltimore Ravens,2,33,23,20,True,False
+2013,2,4,2013-09-29 17:00:00+00:00,330929005,Cleveland Browns,Cincinnati Bengals,5,4,17,6,True,False
+2013,2,4,2013-09-29 17:00:00+00:00,330929008,Detroit Lions,Chicago Bears,8,3,40,32,True,False
+2013,2,4,2013-09-29 17:00:00+00:00,330929012,Kansas City Chiefs,New York Giants,12,19,31,7,True,False
+2013,2,4,2013-09-29 17:00:00+00:00,330929016,Minnesota Vikings,Pittsburgh Steelers,16,23,34,27,True,False
+2013,2,4,2013-09-29 17:00:00+00:00,330929027,Tampa Bay Buccaneers,Arizona Cardinals,27,22,10,13,True,False
+2013,2,4,2013-09-29 17:00:00+00:00,330929030,Jacksonville Jaguars,Indianapolis Colts,30,11,3,37,True,False
+2013,2,4,2013-09-29 17:00:00+00:00,330929034,Houston Texans,Seattle Seahawks,34,26,20,23,True,False
+2013,2,4,2013-09-29 20:05:00+00:00,330929010,Tennessee Titans,New York Jets,10,20,38,13,True,False
+2013,2,4,2013-09-29 20:25:00+00:00,330929007,Denver Broncos,Philadelphia Eagles,7,21,52,20,True,False
+2013,2,4,2013-09-29 20:25:00+00:00,330929013,Oakland Raiders,Washington Redskins,13,28,14,24,True,False
+2013,2,4,2013-09-29 20:25:00+00:00,330929024,San Diego Chargers,Dallas Cowboys,24,6,30,21,True,False
+2013,2,4,2013-09-30 00:30:00+00:00,330929001,Atlanta Falcons,New England Patriots,1,17,23,30,True,False
+2013,2,4,2013-10-01 00:30:00+00:00,330930018,New Orleans Saints,Miami Dolphins,18,15,38,17,True,False
+2013,2,5,2013-10-04 00:25:00+00:00,331003005,Cleveland Browns,Buffalo Bills,5,2,37,24,True,False
+2013,2,5,2013-10-06 17:00:00+00:00,331006003,Chicago Bears,New Orleans Saints,3,18,18,26,True,False
+2013,2,5,2013-10-06 17:00:00+00:00,331006004,Cincinnati Bengals,New England Patriots,4,17,13,6,True,False
+2013,2,5,2013-10-06 17:00:00+00:00,331006009,Green Bay Packers,Detroit Lions,9,8,22,9,True,False
+2013,2,5,2013-10-06 17:00:00+00:00,331006010,Tennessee Titans,Kansas City Chiefs,10,12,17,26,True,False
+2013,2,5,2013-10-06 17:00:00+00:00,331006011,Indianapolis Colts,Seattle Seahawks,11,26,34,28,True,False
+2013,2,5,2013-10-06 17:00:00+00:00,331006014,St. Louis Rams,Jacksonville Jaguars,14,30,34,20,True,False
+2013,2,5,2013-10-06 17:00:00+00:00,331006015,Miami Dolphins,Baltimore Ravens,15,33,23,26,True,False
+2013,2,5,2013-10-06 17:00:00+00:00,331006019,New York Giants,Philadelphia Eagles,19,21,21,36,True,False
+2013,2,5,2013-10-06 20:05:00+00:00,331006022,Arizona Cardinals,Carolina Panthers,22,29,22,6,True,False
+2013,2,5,2013-10-06 20:25:00+00:00,331006006,Dallas Cowboys,Denver Broncos,6,7,48,51,True,False
+2013,2,5,2013-10-07 00:30:00+00:00,331006025,San Francisco 49ers,Houston Texans,25,34,34,3,True,False
+2013,2,5,2013-10-07 03:35:00+00:00,331006013,Oakland Raiders,San Diego Chargers,13,24,27,17,True,False
+2013,2,5,2013-10-08 00:30:00+00:00,331007001,Atlanta Falcons,New York Jets,1,20,28,30,True,False
+2013,2,6,2013-10-11 00:25:00+00:00,331010003,Chicago Bears,New York Giants,3,19,27,21,True,False
+2013,2,6,2013-10-13 17:00:00+00:00,331013002,Buffalo Bills,Cincinnati Bengals,2,4,24,27,True,False
+2013,2,6,2013-10-13 17:00:00+00:00,331013005,Cleveland Browns,Detroit Lions,5,8,17,31,True,False
+2013,2,6,2013-10-13 17:00:00+00:00,331013012,Kansas City Chiefs,Oakland Raiders,12,13,24,7,True,False
+2013,2,6,2013-10-13 17:00:00+00:00,331013016,Minnesota Vikings,Carolina Panthers,16,29,10,35,True,False
+2013,2,6,2013-10-13 17:00:00+00:00,331013020,New York Jets,Pittsburgh Steelers,20,23,6,19,True,False
+2013,2,6,2013-10-13 17:00:00+00:00,331013027,Tampa Bay Buccaneers,Philadelphia Eagles,27,21,20,31,True,False
+2013,2,6,2013-10-13 17:00:00+00:00,331013033,Baltimore Ravens,Green Bay Packers,33,9,17,19,True,False
+2013,2,6,2013-10-13 17:00:00+00:00,331013034,Houston Texans,St. Louis Rams,34,14,13,38,True,False
+2013,2,6,2013-10-13 20:05:00+00:00,331013007,Denver Broncos,Jacksonville Jaguars,7,30,35,19,True,False
+2013,2,6,2013-10-13 20:05:00+00:00,331013026,Seattle Seahawks,Tennessee Titans,26,10,20,13,True,False
+2013,2,6,2013-10-13 20:25:00+00:00,331013017,New England Patriots,New Orleans Saints,17,18,30,27,True,False
+2013,2,6,2013-10-13 20:25:00+00:00,331013025,San Francisco 49ers,Arizona Cardinals,25,22,32,20,True,False
+2013,2,6,2013-10-14 00:30:00+00:00,331013006,Dallas Cowboys,Washington Redskins,6,28,31,16,True,False
+2013,2,6,2013-10-15 00:30:00+00:00,331014024,San Diego Chargers,Indianapolis Colts,24,11,19,9,True,False
+2013,2,7,2013-10-18 00:25:00+00:00,331017022,Arizona Cardinals,Seattle Seahawks,22,26,22,34,True,False
+2013,2,7,2013-10-20 17:00:00+00:00,331020001,Atlanta Falcons,Tampa Bay Buccaneers,1,27,31,23,True,False
+2013,2,7,2013-10-20 17:00:00+00:00,331020008,Detroit Lions,Cincinnati Bengals,8,4,24,27,True,False
+2013,2,7,2013-10-20 17:00:00+00:00,331020015,Miami Dolphins,Buffalo Bills,15,2,21,23,True,False
+2013,2,7,2013-10-20 17:00:00+00:00,331020020,New York Jets,New England Patriots,20,17,30,27,True,False
+2013,2,7,2013-10-20 17:00:00+00:00,331020021,Philadelphia Eagles,Dallas Cowboys,21,6,3,17,True,False
+2013,2,7,2013-10-20 17:00:00+00:00,331020028,Washington Redskins,Chicago Bears,28,3,45,41,True,False
+2013,2,7,2013-10-20 17:00:00+00:00,331020029,Carolina Panthers,St. Louis Rams,29,14,30,15,True,False
+2013,2,7,2013-10-20 17:00:00+00:00,331020030,Jacksonville Jaguars,San Diego Chargers,30,24,6,24,True,False
+2013,2,7,2013-10-20 20:05:00+00:00,331020010,Tennessee Titans,San Francisco 49ers,10,25,17,31,True,False
+2013,2,7,2013-10-20 20:25:00+00:00,331020009,Green Bay Packers,Cleveland Browns,9,5,31,13,True,False
+2013,2,7,2013-10-20 20:25:00+00:00,331020012,Kansas City Chiefs,Houston Texans,12,34,17,16,True,False
+2013,2,7,2013-10-20 20:25:00+00:00,331020023,Pittsburgh Steelers,Baltimore Ravens,23,33,19,16,True,False
+2013,2,7,2013-10-21 00:30:00+00:00,331020011,Indianapolis Colts,Denver Broncos,11,7,39,33,True,False
+2013,2,7,2013-10-22 00:30:00+00:00,331021019,New York Giants,Minnesota Vikings,19,16,23,7,True,False
+2013,2,8,2013-10-25 00:25:00+00:00,331024027,Tampa Bay Buccaneers,Carolina Panthers,27,29,13,31,True,False
+2013,2,8,2013-10-27 17:00:00+00:00,331027008,Detroit Lions,Dallas Cowboys,8,6,31,30,True,False
+2013,2,8,2013-10-27 17:00:00+00:00,331027012,Kansas City Chiefs,Cleveland Browns,12,5,23,17,True,False
+2013,2,8,2013-10-27 17:00:00+00:00,331027017,New England Patriots,Miami Dolphins,17,15,27,17,True,False
+2013,2,8,2013-10-27 17:00:00+00:00,331027018,New Orleans Saints,Buffalo Bills,18,2,35,17,True,False
+2013,2,8,2013-10-27 17:00:00+00:00,331027021,Philadelphia Eagles,New York Giants,21,19,7,15,True,False
+2013,2,8,2013-10-27 17:00:00+00:00,331027030,Jacksonville Jaguars,San Francisco 49ers,30,25,10,42,True,False
+2013,2,8,2013-10-27 20:05:00+00:00,331027004,Cincinnati Bengals,New York Jets,4,20,49,9,True,False
+2013,2,8,2013-10-27 20:05:00+00:00,331027013,Oakland Raiders,Pittsburgh Steelers,13,23,21,18,True,False
+2013,2,8,2013-10-27 20:25:00+00:00,331027007,Denver Broncos,Washington Redskins,7,28,45,21,True,False
+2013,2,8,2013-10-27 20:25:00+00:00,331027022,Arizona Cardinals,Atlanta Falcons,22,1,27,13,True,False
+2013,2,8,2013-10-28 00:30:00+00:00,331027016,Minnesota Vikings,Green Bay Packers,16,9,31,44,True,False
+2013,2,8,2013-10-29 00:30:00+00:00,331028014,St. Louis Rams,Seattle Seahawks,14,26,9,14,True,False
+2013,2,9,2013-11-01 00:25:00+00:00,331031015,Miami Dolphins,Cincinnati Bengals,15,4,22,20,True,False
+2013,2,9,2013-11-03 18:00:00+00:00,331103002,Buffalo Bills,Kansas City Chiefs,2,12,13,23,True,False
+2013,2,9,2013-11-03 18:00:00+00:00,331103006,Dallas Cowboys,Minnesota Vikings,6,16,27,23,True,False
+2013,2,9,2013-11-03 18:00:00+00:00,331103014,St. Louis Rams,Tennessee Titans,14,10,21,28,True,False
+2013,2,9,2013-11-03 18:00:00+00:00,331103020,New York Jets,New Orleans Saints,20,18,26,20,True,False
+2013,2,9,2013-11-03 18:00:00+00:00,331103028,Washington Redskins,San Diego Chargers,28,24,30,24,True,False
+2013,2,9,2013-11-03 18:00:00+00:00,331103029,Carolina Panthers,Atlanta Falcons,29,1,34,10,True,False
+2013,2,9,2013-11-03 21:05:00+00:00,331103013,Oakland Raiders,Philadelphia Eagles,13,21,20,49,True,False
+2013,2,9,2013-11-03 21:05:00+00:00,331103026,Seattle Seahawks,Tampa Bay Buccaneers,26,27,27,24,True,False
+2013,2,9,2013-11-03 21:25:00+00:00,331103005,Cleveland Browns,Baltimore Ravens,5,33,24,18,True,False
+2013,2,9,2013-11-03 21:25:00+00:00,331103017,New England Patriots,Pittsburgh Steelers,17,23,55,31,True,False
+2013,2,9,2013-11-04 01:30:00+00:00,331103034,Houston Texans,Indianapolis Colts,34,11,24,27,True,False
+2013,2,9,2013-11-05 01:30:00+00:00,331104009,Green Bay Packers,Chicago Bears,9,3,20,27,True,False
+2013,2,10,2013-11-08 01:25:00+00:00,331107016,Minnesota Vikings,Washington Redskins,16,28,34,27,True,False
+2013,2,10,2013-11-10 18:00:00+00:00,331110001,Atlanta Falcons,Seattle Seahawks,1,26,10,33,True,False
+2013,2,10,2013-11-10 18:00:00+00:00,331110003,Chicago Bears,Detroit Lions,3,8,19,21,True,False
+2013,2,10,2013-11-10 18:00:00+00:00,331110009,Green Bay Packers,Philadelphia Eagles,9,21,13,27,True,False
+2013,2,10,2013-11-10 18:00:00+00:00,331110010,Tennessee Titans,Jacksonville Jaguars,10,30,27,29,True,False
+2013,2,10,2013-11-10 18:00:00+00:00,331110011,Indianapolis Colts,St. Louis Rams,11,14,8,38,True,False
+2013,2,10,2013-11-10 18:00:00+00:00,331110019,New York Giants,Oakland Raiders,19,13,24,20,True,False
+2013,2,10,2013-11-10 18:00:00+00:00,331110023,Pittsburgh Steelers,Buffalo Bills,23,2,23,10,True,False
+2013,2,10,2013-11-10 18:00:00+00:00,331110033,Baltimore Ravens,Cincinnati Bengals,33,4,20,17,True,False
+2013,2,10,2013-11-10 21:05:00+00:00,331110025,San Francisco 49ers,Carolina Panthers,25,29,9,10,True,False
+2013,2,10,2013-11-10 21:25:00+00:00,331110022,Arizona Cardinals,Houston Texans,22,34,27,24,True,False
+2013,2,10,2013-11-10 21:25:00+00:00,331110024,San Diego Chargers,Denver Broncos,24,7,20,28,True,False
+2013,2,10,2013-11-11 01:30:00+00:00,331110018,New Orleans Saints,Dallas Cowboys,18,6,49,17,True,False
+2013,2,10,2013-11-12 01:30:00+00:00,331111027,Tampa Bay Buccaneers,Miami Dolphins,27,15,22,19,True,False
+2013,2,11,2013-11-15 01:25:00+00:00,331114010,Tennessee Titans,Indianapolis Colts,10,11,27,30,True,False
+2013,2,11,2013-11-17 18:00:00+00:00,331117002,Buffalo Bills,New York Jets,2,20,37,14,True,False
+2013,2,11,2013-11-17 18:00:00+00:00,331117003,Chicago Bears,Baltimore Ravens,3,33,23,20,True,False
+2013,2,11,2013-11-17 18:00:00+00:00,331117004,Cincinnati Bengals,Cleveland Browns,4,5,41,20,True,False
+2013,2,11,2013-11-17 18:00:00+00:00,331117021,Philadelphia Eagles,Washington Redskins,21,28,24,16,True,False
+2013,2,11,2013-11-17 18:00:00+00:00,331117023,Pittsburgh Steelers,Detroit Lions,23,8,37,27,True,False
+2013,2,11,2013-11-17 18:00:00+00:00,331117027,Tampa Bay Buccaneers,Atlanta Falcons,27,1,41,28,True,False
+2013,2,11,2013-11-17 18:00:00+00:00,331117030,Jacksonville Jaguars,Arizona Cardinals,30,22,14,27,True,False
+2013,2,11,2013-11-17 18:00:00+00:00,331117034,Houston Texans,Oakland Raiders,34,13,23,28,True,False
+2013,2,11,2013-11-17 21:05:00+00:00,331117015,Miami Dolphins,San Diego Chargers,15,24,20,16,True,False
+2013,2,11,2013-11-17 21:25:00+00:00,331117018,New Orleans Saints,San Francisco 49ers,18,25,23,20,True,False
+2013,2,11,2013-11-17 21:25:00+00:00,331117019,New York Giants,Green Bay Packers,19,9,27,13,True,False
+2013,2,11,2013-11-17 21:25:00+00:00,331117026,Seattle Seahawks,Minnesota Vikings,26,16,41,20,True,False
+2013,2,11,2013-11-18 01:30:00+00:00,331117007,Denver Broncos,Kansas City Chiefs,7,12,27,17,True,False
+2013,2,11,2013-11-19 01:30:00+00:00,331118029,Carolina Panthers,New England Patriots,29,17,24,20,True,False
+2013,2,12,2013-11-22 01:25:00+00:00,331121001,Atlanta Falcons,New Orleans Saints,1,18,13,17,True,False
+2013,2,12,2013-11-24 18:00:00+00:00,331124005,Cleveland Browns,Pittsburgh Steelers,5,23,11,27,True,False
+2013,2,12,2013-11-24 18:00:00+00:00,331124008,Detroit Lions,Tampa Bay Buccaneers,8,27,21,24,True,False
+2013,2,12,2013-11-24 18:00:00+00:00,331124009,Green Bay Packers,Minnesota Vikings,9,16,26,26,True,False
+2013,2,12,2013-11-24 18:00:00+00:00,331124012,Kansas City Chiefs,San Diego Chargers,12,24,38,41,True,False
+2013,2,12,2013-11-24 18:00:00+00:00,331124014,St. Louis Rams,Chicago Bears,14,3,42,21,True,False
+2013,2,12,2013-11-24 18:00:00+00:00,331124015,Miami Dolphins,Carolina Panthers,15,29,16,20,True,False
+2013,2,12,2013-11-24 18:00:00+00:00,331124033,Baltimore Ravens,New York Jets,33,20,19,3,True,False
+2013,2,12,2013-11-24 18:00:00+00:00,331124034,Houston Texans,Jacksonville Jaguars,34,30,6,13,True,False
+2013,2,12,2013-11-24 21:05:00+00:00,331124013,Oakland Raiders,Tennessee Titans,13,10,19,23,True,False
+2013,2,12,2013-11-24 21:05:00+00:00,331124022,Arizona Cardinals,Indianapolis Colts,22,11,40,11,True,False
+2013,2,12,2013-11-24 21:25:00+00:00,331124019,New York Giants,Dallas Cowboys,19,6,21,24,True,False
+2013,2,12,2013-11-25 01:30:00+00:00,331124017,New England Patriots,Denver Broncos,17,7,34,31,True,False
+2013,2,12,2013-11-26 01:30:00+00:00,331125028,Washington Redskins,San Francisco 49ers,28,25,6,27,True,False
+2013,2,13,2013-11-28 17:30:00+00:00,331128008,Detroit Lions,Green Bay Packers,8,9,40,10,True,False
+2013,2,13,2013-11-28 21:30:00+00:00,331128006,Dallas Cowboys,Oakland Raiders,6,13,31,24,True,False
+2013,2,13,2013-11-29 01:30:00+00:00,331128033,Baltimore Ravens,Pittsburgh Steelers,33,23,22,20,True,False
+2013,2,13,2013-12-01 18:00:00+00:00,331201005,Cleveland Browns,Jacksonville Jaguars,5,30,28,32,True,False
+2013,2,13,2013-12-01 18:00:00+00:00,331201011,Indianapolis Colts,Tennessee Titans,11,10,22,14,True,False
+2013,2,13,2013-12-01 18:00:00+00:00,331201016,Minnesota Vikings,Chicago Bears,16,3,23,20,True,False
+2013,2,13,2013-12-01 18:00:00+00:00,331201020,New York Jets,Miami Dolphins,20,15,3,23,True,False
+2013,2,13,2013-12-01 18:00:00+00:00,331201021,Philadelphia Eagles,Arizona Cardinals,21,22,24,21,True,False
+2013,2,13,2013-12-01 18:00:00+00:00,331201029,Carolina Panthers,Tampa Bay Buccaneers,29,27,27,6,True,False
+2013,2,13,2013-12-01 18:00:00+00:00,331201034,Houston Texans,New England Patriots,34,17,31,34,True,False
+2013,2,13,2013-12-01 21:05:00+00:00,331201002,Buffalo Bills,Atlanta Falcons,2,1,31,34,True,False
+2013,2,13,2013-12-01 21:05:00+00:00,331201025,San Francisco 49ers,St. Louis Rams,25,14,23,13,True,False
+2013,2,13,2013-12-01 21:25:00+00:00,331201012,Kansas City Chiefs,Denver Broncos,12,7,28,35,True,False
+2013,2,13,2013-12-01 21:25:00+00:00,331201024,San Diego Chargers,Cincinnati Bengals,24,4,10,17,True,False
+2013,2,13,2013-12-02 01:30:00+00:00,331201028,Washington Redskins,New York Giants,28,19,17,24,True,False
+2013,2,13,2013-12-03 01:30:00+00:00,331202026,Seattle Seahawks,New Orleans Saints,26,18,34,7,True,False
+2013,2,14,2013-12-06 01:25:00+00:00,331205030,Jacksonville Jaguars,Houston Texans,30,34,27,20,True,False
+2013,2,14,2013-12-08 18:00:00+00:00,331208004,Cincinnati Bengals,Indianapolis Colts,4,11,42,28,True,False
+2013,2,14,2013-12-08 18:00:00+00:00,331208009,Green Bay Packers,Atlanta Falcons,9,1,22,21,True,False
+2013,2,14,2013-12-08 18:00:00+00:00,331208017,New England Patriots,Cleveland Browns,17,5,27,26,True,False
+2013,2,14,2013-12-08 18:00:00+00:00,331208020,New York Jets,Oakland Raiders,20,13,37,27,True,False
+2013,2,14,2013-12-08 18:00:00+00:00,331208021,Philadelphia Eagles,Detroit Lions,21,8,34,20,True,False
+2013,2,14,2013-12-08 18:00:00+00:00,331208023,Pittsburgh Steelers,Miami Dolphins,23,15,28,34,True,False
+2013,2,14,2013-12-08 18:00:00+00:00,331208027,Tampa Bay Buccaneers,Buffalo Bills,27,2,27,6,True,False
+2013,2,14,2013-12-08 18:00:00+00:00,331208028,Washington Redskins,Kansas City Chiefs,28,12,10,45,True,False
+2013,2,14,2013-12-08 18:00:00+00:00,331208033,Baltimore Ravens,Minnesota Vikings,33,16,29,26,True,False
+2013,2,14,2013-12-08 21:05:00+00:00,331208007,Denver Broncos,Tennessee Titans,7,10,51,28,True,False
+2013,2,14,2013-12-08 21:25:00+00:00,331208022,Arizona Cardinals,St. Louis Rams,22,14,30,10,True,False
+2013,2,14,2013-12-08 21:25:00+00:00,331208024,San Diego Chargers,New York Giants,24,19,37,14,True,False
+2013,2,14,2013-12-08 21:25:00+00:00,331208025,San Francisco 49ers,Seattle Seahawks,25,26,19,17,True,False
+2013,2,14,2013-12-09 01:30:00+00:00,331208018,New Orleans Saints,Carolina Panthers,18,29,31,13,True,False
+2013,2,14,2013-12-10 01:30:00+00:00,331209003,Chicago Bears,Dallas Cowboys,3,6,45,28,True,False
+2013,2,15,2013-12-13 01:25:00+00:00,331212007,Denver Broncos,San Diego Chargers,7,24,20,27,True,False
+2013,2,15,2013-12-15 18:00:00+00:00,331215001,Atlanta Falcons,Washington Redskins,1,28,27,26,True,False
+2013,2,15,2013-12-15 18:00:00+00:00,331215005,Cleveland Browns,Chicago Bears,5,3,31,38,True,False
+2013,2,15,2013-12-15 18:00:00+00:00,331215011,Indianapolis Colts,Houston Texans,11,34,25,3,True,False
+2013,2,15,2013-12-15 18:00:00+00:00,331215015,Miami Dolphins,New England Patriots,15,17,24,20,True,False
+2013,2,15,2013-12-15 18:00:00+00:00,331215016,Minnesota Vikings,Philadelphia Eagles,16,21,48,30,True,False
+2013,2,15,2013-12-15 18:00:00+00:00,331215019,New York Giants,Seattle Seahawks,19,26,0,23,True,False
+2013,2,15,2013-12-15 18:00:00+00:00,331215027,Tampa Bay Buccaneers,San Francisco 49ers,27,25,14,33,True,False
+2013,2,15,2013-12-15 18:00:00+00:00,331215030,Jacksonville Jaguars,Buffalo Bills,30,2,20,27,True,False
+2013,2,15,2013-12-15 21:05:00+00:00,331215013,Oakland Raiders,Kansas City Chiefs,13,12,31,56,True,False
+2013,2,15,2013-12-15 21:05:00+00:00,331215029,Carolina Panthers,New York Jets,29,20,30,20,True,False
+2013,2,15,2013-12-15 21:25:00+00:00,331215006,Dallas Cowboys,Green Bay Packers,6,9,36,37,True,False
+2013,2,15,2013-12-15 21:25:00+00:00,331215010,Tennessee Titans,Arizona Cardinals,10,22,34,37,True,False
+2013,2,15,2013-12-15 21:25:00+00:00,331215014,St. Louis Rams,New Orleans Saints,14,18,27,16,True,False
+2013,2,15,2013-12-16 01:30:00+00:00,331215023,Pittsburgh Steelers,Cincinnati Bengals,23,4,30,20,True,False
+2013,2,15,2013-12-17 01:30:00+00:00,331216008,Detroit Lions,Baltimore Ravens,8,33,16,18,True,False
+2013,2,16,2013-12-22 18:00:00+00:00,331222002,Buffalo Bills,Miami Dolphins,2,15,19,0,True,False
+2013,2,16,2013-12-22 18:00:00+00:00,331222004,Cincinnati Bengals,Minnesota Vikings,4,16,42,14,True,False
+2013,2,16,2013-12-22 18:00:00+00:00,331222012,Kansas City Chiefs,Indianapolis Colts,12,11,7,23,True,False
+2013,2,16,2013-12-22 18:00:00+00:00,331222014,St. Louis Rams,Tampa Bay Buccaneers,14,27,23,13,True,False
+2013,2,16,2013-12-22 18:00:00+00:00,331222020,New York Jets,Cleveland Browns,20,5,24,13,True,False
+2013,2,16,2013-12-22 18:00:00+00:00,331222028,Washington Redskins,Dallas Cowboys,28,6,23,24,True,False
+2013,2,16,2013-12-22 18:00:00+00:00,331222029,Carolina Panthers,New Orleans Saints,29,18,17,13,True,False
+2013,2,16,2013-12-22 18:00:00+00:00,331222030,Jacksonville Jaguars,Tennessee Titans,30,10,16,20,True,False
+2013,2,16,2013-12-22 18:00:00+00:00,331222034,Houston Texans,Denver Broncos,34,7,13,37,True,False
+2013,2,16,2013-12-22 21:05:00+00:00,331222008,Detroit Lions,New York Giants,8,19,20,23,True,False
+2013,2,16,2013-12-22 21:05:00+00:00,331222026,Seattle Seahawks,Arizona Cardinals,26,22,10,17,True,False
+2013,2,16,2013-12-22 21:25:00+00:00,331222009,Green Bay Packers,Pittsburgh Steelers,9,23,31,38,True,False
+2013,2,16,2013-12-22 21:25:00+00:00,331222024,San Diego Chargers,Oakland Raiders,24,13,26,13,True,False
+2013,2,16,2013-12-22 21:25:00+00:00,331222033,Baltimore Ravens,New England Patriots,33,17,7,41,True,False
+2013,2,16,2013-12-23 01:30:00+00:00,331222021,Philadelphia Eagles,Chicago Bears,21,3,54,11,True,False
+2013,2,16,2013-12-24 01:30:00+00:00,331223025,San Francisco 49ers,Atlanta Falcons,25,1,34,24,True,False
+2013,2,17,2013-12-29 18:00:00+00:00,331229001,Atlanta Falcons,Carolina Panthers,1,29,20,21,True,False
+2013,2,17,2013-12-29 18:00:00+00:00,331229004,Cincinnati Bengals,Baltimore Ravens,4,33,34,17,True,False
+2013,2,17,2013-12-29 18:00:00+00:00,331229010,Tennessee Titans,Houston Texans,10,34,16,10,True,False
+2013,2,17,2013-12-29 18:00:00+00:00,331229011,Indianapolis Colts,Jacksonville Jaguars,11,30,30,10,True,False
+2013,2,17,2013-12-29 18:00:00+00:00,331229015,Miami Dolphins,New York Jets,15,20,7,20,True,False
+2013,2,17,2013-12-29 18:00:00+00:00,331229016,Minnesota Vikings,Detroit Lions,16,8,14,13,True,False
+2013,2,17,2013-12-29 18:00:00+00:00,331229019,New York Giants,Washington Redskins,19,28,20,6,True,False
+2013,2,17,2013-12-29 18:00:00+00:00,331229023,Pittsburgh Steelers,Cleveland Browns,23,5,20,7,True,False
+2013,2,17,2013-12-29 21:25:00+00:00,331229003,Chicago Bears,Green Bay Packers,3,9,28,33,True,False
+2013,2,17,2013-12-29 21:25:00+00:00,331229013,Oakland Raiders,Denver Broncos,13,7,14,34,True,False
+2013,2,17,2013-12-29 21:25:00+00:00,331229017,New England Patriots,Buffalo Bills,17,2,34,20,True,False
+2013,2,17,2013-12-29 21:25:00+00:00,331229018,New Orleans Saints,Tampa Bay Buccaneers,18,27,42,17,True,False
+2013,2,17,2013-12-29 21:25:00+00:00,331229022,Arizona Cardinals,San Francisco 49ers,22,25,20,23,True,False
+2013,2,17,2013-12-29 21:25:00+00:00,331229024,San Diego Chargers,Kansas City Chiefs,24,12,27,24,True,False
+2013,2,17,2013-12-29 21:25:00+00:00,331229026,Seattle Seahawks,St. Louis Rams,26,14,27,9,True,False
+2013,2,17,2013-12-30 01:30:00+00:00,331229006,Dallas Cowboys,Philadelphia Eagles,6,21,22,24,True,False

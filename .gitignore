@@ -1,0 +1,63 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# Test / lint / type-check caches
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ---- Streamlit ----
+# Secrets (API keys etc.) never belong in git; config.toml is fine to commit.
+.streamlit/secrets.toml
+
+# ---- Environment / secrets ----
+.env
+.env.*
+!.env.example
+
+# ---- Editors / IDEs ----
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Logs / temp ----
+*.log
+*.tmp
+
+# ---- Project data ----
+# data/ holds ESPN caches (games_*.csv, box_*.csv) and model outputs. They are small (~2 MB)
+# and slow to re-scrape, so they are tracked by default. To keep only the tuned model
+# parameters in git and re-download everything else, uncomment these lines:
+# data/*
+# !data/model_params.json
